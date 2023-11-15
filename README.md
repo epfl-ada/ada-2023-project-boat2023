@@ -21,7 +21,7 @@ Preporcessing text:
 
 **Sentiment analysis**
 The goal is to extract the general sentiment of movie plots related to terrorism and see whether or not the prevalent sentiments vary from one region or country to another. the sentiment analysis will be conducted on the plots as well as on the reviews extracted from the IMDb dataset.
-To do this, we will use the NLTK library, specifically Vader (pre-trained sentiment analyzer) to evalutate emotions in movies. VaderSentimentAnalyzer will be used on each sentence, which will provide us with a sentiment score for each movie (positive, neutral or negative). Once these results obtained, we will aggregate the scores by sentiment and by country/Region.
+To do this, we will use the NLTK library, specifically Vader (pre-trained sentiment analyzer) to evalutate emotions in movies. VaderSentimentAnalyzer will be used on each sentence, which will provide us with a sentiment score for each movie (positive, neutral or negative). Once these results obtained, we will aggregate the scores by sentiment and by country/Region. Since VADER only provides general sentiments, we will push our analysis further and include more complex emotions like fear or terror, potentially by using other pre-trained models like BERT. 
 
 
 **Topic modelling**
