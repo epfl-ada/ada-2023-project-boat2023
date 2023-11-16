@@ -6,8 +6,8 @@ Throughout history, humans have used violence and intimidation, especially again
 # Research questions
 The research questions that we would like to address in our analysis are the following:  
 
-- **Emotional depiction:** How do movies emotionally depict terrorism, and are there identifiable patterns in the portrayal of emotions like fear, anger, empathy, or sadness? Additionally, do the emotional tones in the cinematic representation of terrorism differ between specific countries/regions?
 - **Genre association:** Are there specific genres associated to terrorism movies?
+- **Emotional depiction:** How do movies emotionally depict terrorism, and are there identifiable patterns in the portrayal of emotions like fear, anger, empathy, or sadness? Additionally, do the emotional tones in the cinematic representation of terrorism differ between specific countries/regions?
 - **Topic patterns:** Are there noticeable topic patterns in terrorism movies? Do terrorism movies tend to focus on specific themes? If they do, do different countries or regions portray different themes in their cinematic representation of terrorism?
 - **Popularity analysis:** How popular are terrorism-related movies in comparison to others?
 
@@ -31,5 +31,5 @@ In order to determine if there is significant difference between the means (box 
 - **T-test on box office revenue:** The distribution of box office revenue demonstrates a heavy tail. Therefore, we initially apply a log-transformation to the revenue data. Subsequently, we employ t-tests on the transformed data. To calculate statistical power, we conduct 10,000 simulations of the t-tests. Additionally, we employ bootstrap with 10,000 draws to compute the 95% confidence interval
 - **T-test on rating:** Similar to the box office analysis, we utilize t-tests for average ratings. However, since the distribution of average ratings does not exhibit a heavy tail, we apply standard rating values without log-transformation.
 
-# Tools and libraries
-- 
+
+# Proposed timeline
