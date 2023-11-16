@@ -1,4 +1,7 @@
 Project ADA
+
+**Why popularity analysis?**
+   Analyzing how popular terrorism-related movies are compared to other genres can offer valuable insights into various aspects of the relationship between movies and society. By examining box office trends, we can understand the demand for these films, helping filmmakers and producers make informed decisions about future productions. Additionally, assessing the cultural impact reveals how much interest and engagement the audience has in this genre, providing insights into societal perceptions.
 **Methods**
 
 1. **T-Tests**
