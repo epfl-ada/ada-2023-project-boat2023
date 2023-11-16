@@ -45,3 +45,14 @@ def is_empty_json(json_str):
         return isinstance(json_obj, dict) and not bool(json_obj)
     except (json.JSONDecodeError, TypeError):
         return False
+
+
+def extract_countries(json_str):
+    countries = set()
+    try:
+        json_obj = json.loads(json_str)
+        for country in json_obj.values():
+            countries.add(country)
+    except (json.JSONDecodeError, TypeError):
+        pass
+    return countries
