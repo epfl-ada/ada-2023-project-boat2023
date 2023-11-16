@@ -33,3 +33,16 @@ In order to determine if there is significant difference between the means (box 
 
 
 # Proposed timeline
+- 24.12.2023 - Pause the project for the duration of HW2
+- 01.12.2023 - Start final analysis and visualizations
+- 11.12.2023 - Start datastory implementation
+- 18.12.2023 - Finish datastory
+- 19.12.2023 - Final review of the project
+- 22.12.2023 - Project Milestone 3 Deadline
+  
+# Organization within the team
+
+- Antoine Tissot & Sarra Chaaban - **Emotional depiction**
+- Aicha Masmoudi - **Genre association**
+- Ahmad Bilal Kakar & Lina Bousbina - **Topic patterns + popularity analysis**
+- Team Boat2023 - **Data story**
