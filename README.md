@@ -1,4 +1,4 @@
-**Impact of terrorism on the movie industry**
+# Explosive Narratives: Terrorism through the Cinematic Lens
 
 # Abstract
 Throughout history, humans have used violence and intimidation, especially against civilians, in the pursuit of political and ideological aims. This idea defines terrorism, which has had a significant impact on society and culture. It is fair to assume that cinema portrays diverse cultures, lifestyles and issues, reflecting society, its joys, struggles, and complexities. Through films, we witness stories that resonate with our own experiences, making us feel connected and understood, and allowing us to learn more about what is happening in our world. In this context, terrorism has been portrayed in multiple movies. It is interesting to investigate the impact that terrorism has had on cinema, using the CMU Movie corpus dataset and focusing on emotional depiction, genre association, topic patterns, as well as popularity across continents and countries.
@@ -39,7 +39,7 @@ The research questions that we would like to address in our analysis are the fol
 - **Popularity analysis:** How popular are terrorism-related movies in comparison to others?
 
 # Additional datasets
-   [IDMB Movies](https://developer.imdb.com/non-commercial-datasets/) Besides defining a movie's success based on financial criteria, we aim to broaden the definition by incorporating measures of success in terms of ratings. We've acquired two datasets from IMDb: one **title.basic.tsv** facilitates merging with our movie data, and the other **title.ratings.tsv** allows us to extract average ratings.
+   [IMDB Movies](https://developer.imdb.com/non-commercial-datasets/) Besides defining a movie's success based on financial criteria, we aim to broaden the definition by incorporating measures of success in terms of ratings. We've acquired two datasets from IMDb: one **title.basic.tsv** facilitates merging with our movie data, and the other **title.ratings.tsv** allows us to extract average ratings.
 
 # Methodology
 **Sentiment analysis**
@@ -48,7 +48,7 @@ To do this, we will use the ***NLTK*** library, specifically ***Vader*** (pre-tr
 
 
 **Topic modelling**
-The goal is to identify common topics in terrorism-related movies. This can be partly done using ***LDA*** for topic modelling. The first step is to clean the data by tokenizing and stemming it. The second step is to convert the text into a numerical model suitable for modelling and finally we can apply the ***LDA*** algorithm to extract topics. We can identify the recurring themes found in our summary plots and then plot word clouds to visually represent the different themes and gain insight into the different subjects depending on the time period/country/regions.
+The goal is to identify common topics in terrorism-related movies by identify clusters or groups of topics in the summary plot. Initially, we'll clean the data by breaking it into tokens and reducing words to their root form (***stemming***). This step ensures our text is ready for analysis. Next, we'll convert the text into a numerical format suitable for modeling. This transformation enables us to apply algorithms effectively. We'll utilize ***LDA***, to extract topics from the movie summaries. Moreover, we plan to group movies by regions. This step will enable us to not only explore common topics but also assess regional variations in the identified themes. These methods allow us to identify recurring themes present in the plots. Employing techniques like ***K-means clustering***, possibly complemented by ***Naive Bayes classification***, we aim to group movies based on their identified topics. This clustering process will enable us to classify and explore similarities between different movies.
 
 **Genres analysis**
 The genre of a movie is a way to categorize it, allowing audiences and film-makers to understand the type of content they can expect from the movie. In our analysis, we were interested in investigating the potential association between movie genre and terrorism-related movies. In particular, we realize two frequency analyses and one ***chi-squared*** independence test. We first look at how often each genre appears in terrorism vs non-terrorism movies, then the frequency of genres of terrorism-related movies between different countries, and finally we perform a ***chi-squared*** independence test aiming at testing whether there is a significant association between movie genres and their portrayal of terrorism.
@@ -60,4 +60,20 @@ In order to determine if there is significant difference between the means (box 
 
 
 # Proposed timeline
+<<<<<<< HEAD
 >>>>>>> bilal_new
+=======
+- 24.12.2023 - Pause the project for the duration of HW2
+- 01.12.2023 - Start final analysis and visualizations
+- 11.12.2023 - Start datastory implementation
+- 18.12.2023 - Finish datastory
+- 19.12.2023 - Final review of the project
+- 22.12.2023 - Project Milestone 3 Deadline
+  
+# Organization within the team
+
+- Antoine Tissot & Sarra Chaabane - **Emotional depiction**
+- Aicha Masmoudi - **Genre association**
+- Ahmad Bilal Kakar & Lina Bousbina - **Topic patterns + popularity analysis**
+- Team Boat2023 - **Data story**
+>>>>>>> main
