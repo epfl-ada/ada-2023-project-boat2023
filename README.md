@@ -12,7 +12,7 @@ The research questions that we would like to address in our analysis are the fol
 - **Popularity analysis:** How popular are terrorism-related movies in comparison to others?
 
 # Additional datasets
-   [IDMB Movies](https://developer.imdb.com/non-commercial-datasets/) Besides defining a movie's success based on financial criteria, we aim to broaden the definition by incorporating measures of success in terms of ratings. We've acquired two datasets from IMDb: one **title.basic.tsv** facilitates merging with our movie data, and the other **title.ratings.tsv** allows us to extract average ratings.
+   [IMDB Movies](https://developer.imdb.com/non-commercial-datasets/) Besides defining a movie's success based on financial criteria, we aim to broaden the definition by incorporating measures of success in terms of ratings. We've acquired two datasets from IMDb: one **title.basic.tsv** facilitates merging with our movie data, and the other **title.ratings.tsv** allows us to extract average ratings.
 
 # Methodology
 **Sentiment analysis**
@@ -42,7 +42,7 @@ In order to determine if there is significant difference between the means (box 
   
 # Organization within the team
 
-- Antoine Tissot & Sarra Chaaban - **Emotional depiction**
+- Antoine Tissot & Sarra Chaabane - **Emotional depiction**
 - Aicha Masmoudi - **Genre association**
 - Ahmad Bilal Kakar & Lina Bousbina - **Topic patterns + popularity analysis**
 - Team Boat2023 - **Data story**
