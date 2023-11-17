@@ -56,3 +56,13 @@ def extract_countries(json_str):
     except (json.JSONDecodeError, TypeError):
         pass
     return countries
+
+
+def extract_countries_from_dictionary(json_string):
+    try:
+        countries_dict = json.loads(json_string)
+        # Extract country names from the values in the dictionary
+        country_names = [value for value in countries_dict.values()]
+        return country_names
+    except (json.JSONDecodeError, KeyError):
+        return []
