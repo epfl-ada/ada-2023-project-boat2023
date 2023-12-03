@@ -1,0 +1,3 @@
+2023.11.17 17:42:20 INFO  Started: Metals version 1.1.0 in folders 'D:\EPFL\MA1\ADA\ADA2023\p2\ada-2023-project-boat2023' for client Visual Studio Code 1.84.2.
+2023.11.17 17:42:21 WARN  Build server is not auto-connectable.
+2023.11.17 17:42:21 WARN  no build tool detected in workspace 'D:\EPFL\MA1\ADA\ADA2023\p2\ada-2023-project-boat2023'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
