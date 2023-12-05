@@ -3,6 +3,8 @@ import os
 import json
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import plotly.express as px
+import numpy as np
+from scipy import stats
 
 
 def download_data(file_id, local_file_name):
@@ -125,3 +127,56 @@ def contains_genres_of_interest(lst):
     genres_of_interest = ['Drama', 'Action', 'Thriller', 'Comedy', 'Action/Adventure', 'Horror',
                           'Adventure', 'World cinema', 'Crime Fiction', 'Science Fiction']
     return any(genre in genres_of_interest for genre in lst)
+
+def bootstrap_ttest_CI(data1, data2, num_draws=10000):
+    """
+    Computes 95% confidence interval for the ttest between data1 and data2
+    Parameters
+    ----------
+    data1: array_like
+        The data you desire to calculate confidence interval for
+    data2: array_like
+        The data you desire to calculate confidence interval for
+    num_draws: int
+        Number of draws to be used for the computation of the CI. The default value is set to 10000
+    Returns
+    -------
+    ndarray
+        A tupple containing the 2.5 percentile at index 0 and the 97.5 percentile at index 1
+    """
+    pvals = np.zeros(num_draws)
+    data1 = np.array(data1)
+    data2 = np.array(data2)
+    n1 = len(data1)
+    n2 = len(data2)
+
+    for i in range(num_draws):
+        data1_tmp = np.random.choice(data1, n1)
+        data2_tmp = np.random.choice(data2, n2)
+        pvals[i] = stats.ttest_ind(data1_tmp, data2_tmp)[1]
+
+    return (np.nanpercentile(pvals, 2.5), np.nanpercentile(pvals, 97.5))
+
+def bootstrap_CI(data, num_draws=10000, metric=np.nanmean):
+    """
+    Computes 95% confidence interval
+    Parameters
+    ----------
+    data: array_like
+        The data you desire to calculate confidence interval for
+    num_draws: int
+        Number of draws to be used for the computation of the CI. The default value is set to 10000
+    Returns
+    -------
+    ndarray
+        A tupple containing the 2.5 percentile at index 0 and the 97.5 percentile at index 1
+    """
+    means = np.zeros(num_draws)
+    data = np.array(data)
+    n = len(data)
+
+    for i in range(num_draws):
+        data_tmp = np.random.choice(data, i)
+        means[i] = metric(data_tmp)
+
+    return (np.nanpercentile(means, 2.5), np.nanpercentile(means, 97.5))
