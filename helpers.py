@@ -1,6 +1,8 @@
 import gdown as gd
 import os
 import json
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import plotly.express as px
 
 
 def download_data(file_id, local_file_name):
@@ -66,3 +68,60 @@ def extract_countries_from_dictionary(json_string):
         return country_names
     except (json.JSONDecodeError, KeyError):
         return []
+
+# Sentiment analysis: classifying into 3 classes (positive, negative, neutral)
+def classify(score: float):
+    #positive
+    if score >= 0.05:
+        return 1
+    #negative
+    elif score <= -0.05:
+        return -1
+    #neutral
+    return 0
+
+# given a list of sentences, the function returns the result of the analyzer
+def analyse_text(text, classify_discrete = True): 
+    # Initialize the analyzer
+    analyzer = SentimentIntensityAnalyzer()
+    res = []
+    for sentence in text:
+        sentiment_result = analyzer.polarity_scores(sentence)
+        if classify_discrete:
+            res.append(classify(sentiment_result['compound']))
+        else:
+            res.append(sentiment_result['compound'])
+    
+    return res
+
+# To plot the top n values of a column in a pie chart
+def plot_interactive_pie(df, column, title, n):
+    counts = df[column].value_counts()
+    # Keep the top n and sum the rest under "Others"
+    top_counts = counts[:n]
+    top_counts['Others'] = counts[n:].sum()
+    fig = px.pie(values=top_counts, names=top_counts.index, title=title)
+    fig.update_traces(textinfo='percent+label')
+    fig.show()
+    
+
+def has_keyword(summary, keywords):
+    for word in keywords:
+        if word in summary.lower():  # Perform a case-insensitive check
+            return True
+    return False
+
+#Define a function that checks whether a list of countries contains at least one of the 10 countries we are interested in
+def contains_countries_of_interest(lst):
+    # List of countries of interest
+    countries_of_interest = [
+        "United States of America", "United Kingdom", "India", "Japan",
+        "France", "Germany", "Canada", "Italy", "Hong Kong", "Australia"]
+    return any(country in countries_of_interest for country in lst)
+
+#Define a function that checks whether a list of genres contains at least one of the 10 genres we are interested in
+def contains_genres_of_interest(lst):
+    # List of countries of interest
+    genres_of_interest = ['Drama', 'Action', 'Thriller', 'Comedy', 'Action/Adventure', 'Horror',
+                          'Adventure', 'World cinema', 'Crime Fiction', 'Science Fiction']
+    return any(genre in genres_of_interest for genre in lst)
