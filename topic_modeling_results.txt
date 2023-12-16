@@ -1,0 +1,1020 @@
+Topics for Region: ['Asia and Pacific']
+Topic: 0 
+Words: 0.004*"find" + 0.004*"get" + 0.004*"one" + 0.003*"him" + 0.003*"take" + 0.003*"goku" + 0.003*"attack" + 0.003*"tell" + 0.003*"kill" + 0.003*"father"
+Topic: 1 
+Words: 0.004*"one" + 0.004*"get" + 0.004*"take" + 0.004*"find" + 0.004*"him" + 0.003*"go" + 0.003*"tell" + 0.003*"back" + 0.003*"kill" + 0.003*"police"
+Topic: 2 
+Words: 0.007*"father" + 0.006*"get" + 0.005*"one" + 0.005*"him" + 0.004*"love" + 0.004*"find" + 0.004*"go" + 0.004*"son" + 0.004*"friend" + 0.004*"kill"
+Topic: 3 
+Words: 0.004*"find" + 0.004*"one" + 0.004*"him" + 0.004*"get" + 0.004*"go" + 0.003*"kill" + 0.003*"her" + 0.003*"back" + 0.003*"however" + 0.003*"take"
+Topic: 4 
+Words: 0.005*"police" + 0.004*"him" + 0.004*"find" + 0.004*"one" + 0.004*"take" + 0.003*"go" + 0.003*"kill" + 0.003*"get" + 0.003*"back" + 0.003*"however"
+
+Topics for Region: ['America']
+Topic: 0 
+Words: 0.008*"sun" + 0.008*"dr" + 0.008*"andromeda" + 0.007*"bug" + 0.006*"earth" + 0.006*"team" + 0.004*"elmer" + 0.004*"one" + 0.004*"solar" + 0.004*"energy"
+Topic: 1 
+Words: 0.017*"timmy" + 0.015*"tom" + 0.011*"back" + 0.009*"jerry" + 0.008*"darkness" + 0.008*"fairy" + 0.008*"get" + 0.007*"one" + 0.007*"eliminator" + 0.005*"cat"
+Topic: 2 
+Words: 0.007*"woman" + 0.006*"one" + 0.006*"son" + 0.005*"plane" + 0.005*"sophia" + 0.005*"kenner" + 0.005*"go" + 0.005*"men" + 0.005*"him" + 0.004*"bomb"
+Topic: 3 
+Words: 0.004*"find" + 0.004*"one" + 0.004*"him" + 0.003*"attack" + 0.003*"two" + 0.003*"take" + 0.003*"back" + 0.003*"return" + 0.003*"father" + 0.003*"kill"
+Topic: 4 
+Words: 0.006*"find" + 0.005*"go" + 0.005*"house" + 0.005*"get" + 0.005*"one" + 0.004*"him" + 0.004*"tell" + 0.004*"back" + 0.004*"take" + 0.003*"her"
+
+Topics for Region: ['\u200bEurop Region']
+Topic: 0 
+Words: 0.005*"find" + 0.004*"take" + 0.004*"one" + 0.004*"go" + 0.004*"him" + 0.003*"film" + 0.003*"attack" + 0.003*"child" + 0.003*"back" + 0.003*"bond"
+Topic: 1 
+Words: 0.004*"find" + 0.004*"take" + 0.004*"one" + 0.004*"tell" + 0.003*"get" + 0.003*"man" + 0.003*"back" + 0.003*"him" + 0.003*"go" + 0.003*"two"
+Topic: 2 
+Words: 0.005*"one" + 0.004*"him" + 0.004*"find" + 0.004*"go" + 0.004*"tell" + 0.003*"get" + 0.003*"back" + 0.003*"two" + 0.003*"kill" + 0.003*"take"
+Topic: 3 
+Words: 0.004*"find" + 0.004*"one" + 0.004*"go" + 0.003*"take" + 0.003*"back" + 0.003*"man" + 0.003*"father" + 0.003*"get" + 0.003*"two" + 0.003*"tell"
+Topic: 4 
+Words: 0.004*"one" + 0.004*"back" + 0.004*"two" + 0.004*"get" + 0.003*"find" + 0.003*"him" + 0.003*"take" + 0.003*"oliver" + 0.003*"sharpe" + 0.003*"go"
+
+Topics for Region: ['\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.004*"one" + 0.004*"child" + 0.003*"take" + 0.003*"marcello" + 0.003*"tell" + 0.003*"day" + 0.003*"police" + 0.003*"mabuse" + 0.003*"make" + 0.003*"find"
+Topic: 1 
+Words: 0.005*"go" + 0.005*"find" + 0.004*"house" + 0.004*"zorro" + 0.004*"one" + 0.003*"tell" + 0.003*"chico" + 0.003*"him" + 0.003*"mark" + 0.003*"police"
+Topic: 2 
+Words: 0.005*"go" + 0.005*"get" + 0.005*"tell" + 0.004*"back" + 0.004*"car" + 0.004*"him" + 0.004*"find" + 0.004*"take" + 0.004*"manise" + 0.004*"sue"
+Topic: 3 
+Words: 0.006*"michael" + 0.004*"find" + 0.004*"maria" + 0.004*"take" + 0.004*"two" + 0.003*"film" + 0.003*"one" + 0.003*"father" + 0.003*"car" + 0.003*"return"
+Topic: 4 
+Words: 0.004*"find" + 0.003*"mother" + 0.003*"take" + 0.003*"back" + 0.003*"film" + 0.003*"him" + 0.003*"jimmy" + 0.003*"get" + 0.003*"prison" + 0.003*"however"
+
+Topics for Region: ['America', '\u200bEurop Region']
+Topic: 0 
+Words: 0.004*"find" + 0.004*"one" + 0.003*"him" + 0.003*"escape" + 0.003*"go" + 0.003*"kill" + 0.003*"paul" + 0.003*"bond" + 0.003*"back" + 0.002*"officer"
+Topic: 1 
+Words: 0.005*"find" + 0.005*"him" + 0.004*"one" + 0.004*"kill" + 0.004*"go" + 0.004*"tell" + 0.004*"back" + 0.004*"two" + 0.003*"take" + 0.003*"man"
+Topic: 2 
+Words: 0.004*"david" + 0.004*"find" + 0.004*"take" + 0.003*"him" + 0.003*"tell" + 0.003*"one" + 0.003*"go" + 0.003*"back" + 0.003*"return" + 0.003*"get"
+Topic: 3 
+Words: 0.004*"find" + 0.004*"one" + 0.004*"him" + 0.003*"two" + 0.003*"take" + 0.003*"tell" + 0.003*"bill" + 0.003*"kill" + 0.003*"go" + 0.003*"bond"
+Topic: 4 
+Words: 0.009*"harry" + 0.004*"one" + 0.003*"him" + 0.003*"find" + 0.003*"take" + 0.003*"kill" + 0.003*"tell" + 0.003*"batman" + 0.003*"later" + 0.002*"dragon"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.006*"ricky" + 0.005*"su" + 0.005*"prince" + 0.004*"him" + 0.004*"jong" + 0.004*"ah" + 0.004*"shao" + 0.004*"yuan" + 0.004*"kill" + 0.003*"father"
+Topic: 1 
+Words: 0.005*"ah" + 0.005*"boy" + 0.005*"chai" + 0.004*"man" + 0.004*"him" + 0.004*"yung" + 0.004*"hou" + 0.004*"go" + 0.003*"ip" + 0.003*"take"
+Topic: 2 
+Words: 0.009*"zhang" + 0.007*"ho" + 0.006*"ranbir" + 0.006*"long" + 0.006*"feng" + 0.005*"xiaoshuai" + 0.005*"find" + 0.005*"father" + 0.004*"huang" + 0.004*"kit"
+Topic: 3 
+Words: 0.006*"kill" + 0.005*"peter" + 0.005*"macbeth" + 0.004*"grace" + 0.004*"one" + 0.004*"find" + 0.004*"bob" + 0.004*"brother" + 0.004*"lincoln" + 0.003*"tell"
+Topic: 4 
+Words: 0.006*"japanese" + 0.005*"di" + 0.005*"friend" + 0.005*"one" + 0.004*"however" + 0.004*"kill" + 0.004*"find" + 0.004*"ip" + 0.004*"edgar" + 0.004*"man"
+
+Topics for Region: ['\u200bArab States']
+Topic: 0 
+Words: 0.014*"movie" + 0.014*"jafar" + 0.010*"escape" + 0.010*"later" + 0.010*"young" + 0.010*"find" + 0.010*"plan" + 0.010*"khan" + 0.010*"gholi" + 0.010*"lor"
+Topic: 1 
+Words: 0.020*"bashu" + 0.012*"nai" + 0.011*"child" + 0.011*"film" + 0.007*"one" + 0.007*"work" + 0.007*"building" + 0.006*"sami" + 0.006*"christian" + 0.006*"ahmed"
+Topic: 2 
+Words: 0.011*"go" + 0.011*"decides" + 0.011*"iraqi" + 0.011*"restaurant" + 0.008*"day" + 0.008*"year" + 0.008*"march" + 0.008*"get" + 0.008*"desert" + 0.008*"army"
+Topic: 3 
+Words: 0.021*"jafar" + 0.013*"jamal" + 0.009*"sister" + 0.009*"well" + 0.009*"festival" + 0.009*"identity" + 0.009*"africa" + 0.005*"act" + 0.005*"walking" + 0.005*"change"
+Topic: 4 
+Words: 0.025*"mehrollah" + 0.017*"latif" + 0.014*"father" + 0.014*"khorshid" + 0.011*"take" + 0.011*"motorcycle" + 0.011*"step" + 0.011*"criminal" + 0.009*"city" + 0.009*"home"
+
+Topics for Region: ['America', 'Asia and Pacific']
+Topic: 0 
+Words: 0.006*"machine" + 0.005*"one" + 0.005*"human" + 0.005*"matrix" + 0.004*"orin" + 0.004*"billy" + 0.004*"spider" + 0.004*"take" + 0.004*"robot" + 0.003*"peter"
+Topic: 1 
+Words: 0.005*"one" + 0.005*"kill" + 0.004*"men" + 0.004*"jake" + 0.004*"tell" + 0.004*"find" + 0.004*"two" + 0.003*"him" + 0.003*"man" + 0.003*"scott"
+Topic: 2 
+Words: 0.005*"him" + 0.005*"find" + 0.004*"one" + 0.003*"kill" + 0.003*"vitti" + 0.003*"day" + 0.003*"neo" + 0.003*"tell" + 0.003*"katie" + 0.003*"go"
+Topic: 3 
+Words: 0.006*"daniel" + 0.004*"killjoy" + 0.004*"find" + 0.004*"him" + 0.003*"back" + 0.003*"one" + 0.003*"miyagi" + 0.003*"take" + 0.003*"ash" + 0.003*"friend"
+Topic: 4 
+Words: 0.005*"lucian" + 0.004*"find" + 0.004*"one" + 0.004*"back" + 0.004*"go" + 0.003*"viktor" + 0.003*"get" + 0.003*"him" + 0.003*"pokémon" + 0.003*"attack"
+
+Topics for Region: ['America', 'America']
+Topic: 0 
+Words: 0.004*"find" + 0.004*"misty" + 0.004*"ida" + 0.004*"greg" + 0.004*"wolfe" + 0.004*"percy" + 0.003*"go" + 0.003*"take" + 0.003*"travis" + 0.003*"dog"
+Topic: 1 
+Words: 0.006*"house" + 0.005*"find" + 0.004*"back" + 0.004*"one" + 0.004*"get" + 0.004*"see" + 0.004*"kill" + 0.003*"him" + 0.003*"tell" + 0.003*"two"
+Topic: 2 
+Words: 0.004*"hitler" + 0.003*"billy" + 0.003*"him" + 0.003*"help" + 0.003*"find" + 0.003*"one" + 0.003*"tell" + 0.003*"mulder" + 0.003*"take" + 0.003*"father"
+Topic: 3 
+Words: 0.007*"todd" + 0.007*"alex" + 0.006*"john" + 0.004*"one" + 0.004*"find" + 0.004*"bowling" + 0.003*"buck" + 0.003*"get" + 0.003*"event" + 0.003*"go"
+Topic: 4 
+Words: 0.007*"johnny" + 0.005*"find" + 0.004*"strachey" + 0.004*"take" + 0.004*"father" + 0.004*"him" + 0.004*"go" + 0.003*"one" + 0.003*"tell" + 0.003*"martin"
+
+Topics for Region: ['\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.008*"szpilman" + 0.007*"marcello" + 0.005*"german" + 0.005*"son" + 0.005*"polish" + 0.005*"friend" + 0.004*"boy" + 0.004*"wife" + 0.004*"go" + 0.004*"angie"
+Topic: 1 
+Words: 0.013*"zoé" + 0.011*"nico" + 0.010*"oskar" + 0.010*"jeanne" + 0.010*"costa" + 0.008*"cat" + 0.007*"m" + 0.006*"go" + 0.005*"seán" + 0.005*"give"
+Topic: 2 
+Words: 0.008*"steiner" + 0.006*"max" + 0.006*"terr" + 0.006*"lea" + 0.006*"oms" + 0.005*"one" + 0.005*"boy" + 0.005*"francis" + 0.005*"stransky" + 0.005*"duffy"
+Topic: 3 
+Words: 0.009*"jan" + 0.008*"blomkvist" + 0.007*"salander" + 0.007*"dolf" + 0.005*"time" + 0.005*"karel" + 0.004*"woman" + 0.004*"prison" + 0.004*"child" + 0.004*"film"
+Topic: 4 
+Words: 0.013*"lecter" + 0.010*"oliver" + 0.006*"him" + 0.006*"trench" + 0.005*"german" + 0.005*"train" + 0.005*"robbie" + 0.005*"sikes" + 0.005*"find" + 0.005*"charlie"
+
+Topics for Region: ['Cis']
+Topic: 0 
+Words: 0.016*"ivan" + 0.008*"kseniya" + 0.007*"stone" + 0.006*"georgian" + 0.006*"russian" + 0.006*"soldier" + 0.005*"tsar" + 0.005*"son" + 0.005*"military" + 0.004*"tank"
+Topic: 1 
+Words: 0.023*"artyom" + 0.007*"fight" + 0.007*"german" + 0.006*"him" + 0.005*"valiyev" + 0.005*"know" + 0.004*"sniper" + 0.004*"money" + 0.004*"operation" + 0.004*"one"
+Topic: 2 
+Words: 0.009*"anton" + 0.009*"soviet" + 0.007*"stalin" + 0.006*"german" + 0.006*"veikko" + 0.005*"ivan" + 0.005*"army" + 0.005*"yegor" + 0.005*"one" + 0.004*"watch"
+Topic: 3 
+Words: 0.015*"maxim" + 0.006*"andrey" + 0.005*"tower" + 0.005*"father" + 0.005*"russian" + 0.005*"guy" + 0.005*"island" + 0.005*"pirate" + 0.004*"war" + 0.004*"city"
+Topic: 4 
+Words: 0.009*"anton" + 0.009*"ivan" + 0.007*"john" + 0.006*"yegor" + 0.005*"moscow" + 0.004*"captain" + 0.004*"find" + 0.004*"house" + 0.004*"crown" + 0.004*"svetlana"
+
+Topics for Region: ['\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.009*"mladen" + 0.009*"carlo" + 0.007*"franco" + 0.006*"man" + 0.006*"tell" + 0.006*"find" + 0.005*"one" + 0.005*"michele" + 0.005*"go" + 0.004*"see"
+Topic: 1 
+Words: 0.007*"moses" + 0.007*"miss" + 0.006*"g" + 0.006*"may" + 0.005*"gang" + 0.005*"fiamma" + 0.005*"alien" + 0.005*"gangster" + 0.005*"one" + 0.005*"sean"
+Topic: 2 
+Words: 0.006*"father" + 0.006*"koistinen" + 0.006*"solomon" + 0.004*"find" + 0.004*"francesco" + 0.004*"member" + 0.004*"return" + 0.004*"take" + 0.004*"stranger" + 0.004*"him"
+Topic: 3 
+Words: 0.012*"hitler" + 0.005*"find" + 0.005*"jack" + 0.004*"salander" + 0.004*"berlin" + 0.004*"glaucus" + 0.004*"ezri" + 0.003*"girl" + 0.003*"order" + 0.003*"christian"
+Topic: 4 
+Words: 0.006*"bean" + 0.006*"writer" + 0.006*"film" + 0.004*"solek" + 0.003*"tell" + 0.003*"fly" + 0.003*"child" + 0.003*"lang" + 0.003*"potion" + 0.003*"one"
+
+Topics for Region: ['Cis', 'Cis']
+Topic: 0 
+Words: 0.025*"kelvin" + 0.014*"ship" + 0.014*"solaris" + 0.012*"hari" + 0.009*"nezjin" + 0.008*"salikh" + 0.007*"scientist" + 0.006*"father" + 0.006*"soviet" + 0.006*"station"
+Topic: 1 
+Words: 0.014*"alyosha" + 0.013*"vaskov" + 0.011*"german" + 0.009*"train" + 0.008*"see" + 0.008*"him" + 0.008*"woman" + 0.008*"colonist" + 0.008*"pavlov" + 0.007*"however"
+Topic: 2 
+Words: 0.034*"flyora" + 0.014*"partisan" + 0.010*"german" + 0.010*"village" + 0.009*"take" + 0.008*"glasha" + 0.008*"roubej" + 0.006*"find" + 0.006*"rifle" + 0.006*"nazi"
+Topic: 3 
+Words: 0.023*"veronika" + 0.014*"boris" + 0.014*"fyodor" + 0.014*"mark" + 0.012*"family" + 0.012*"ivanovich" + 0.009*"war" + 0.009*"nina" + 0.007*"return" + 0.007*"soldier"
+Topic: 4 
+Words: 0.016*"gold" + 0.011*"train" + 0.011*"shilov" + 0.009*"bandit" + 0.007*"group" + 0.007*"killed" + 0.007*"war" + 0.007*"plot" + 0.005*"attacked" + 0.005*"film"
+
+Topics for Region: ['Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.012*"phoolan" + 0.009*"film" + 0.006*"gang" + 0.005*"bos" + 0.004*"war" + 0.004*"song" + 0.004*"shuisheng" + 0.004*"jinbao" + 0.004*"vikram" + 0.004*"shri"
+Topic: 1 
+Words: 0.010*"naritsugu" + 0.009*"rajesh" + 0.009*"amar" + 0.007*"shinzaemon" + 0.005*"find" + 0.005*"margaret" + 0.005*"family" + 0.005*"henry" + 0.004*"tell" + 0.004*"sheela"
+Topic: 2 
+Words: 0.013*"bond" + 0.008*"largo" + 0.006*"florentini" + 0.006*"woop" + 0.005*"makoto" + 0.004*"escape" + 0.004*"help" + 0.004*"take" + 0.004*"yumi" + 0.004*"him"
+Topic: 3 
+Words: 0.012*"costello" + 0.011*"fung" + 0.008*"men" + 0.008*"kwai" + 0.008*"k" + 0.006*"meet" + 0.006*"music" + 0.005*"see" + 0.005*"child" + 0.005*"hinano"
+Topic: 4 
+Words: 0.013*"ash" + 0.007*"tell" + 0.006*"vampire" + 0.006*"one" + 0.006*"game" + 0.005*"fergus" + 0.005*"hidetora" + 0.005*"dil" + 0.005*"him" + 0.005*"apprentice"
+
+Topics for Region: ['America', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.009*"siegfried" + 0.009*"brunhild" + 0.007*"selene" + 0.007*"erik" + 0.006*"stowe" + 0.006*"kill" + 0.006*"gunther" + 0.005*"michael" + 0.005*"kriemhild" + 0.005*"lycans"
+Topic: 1 
+Words: 0.006*"angus" + 0.005*"time" + 0.005*"eric" + 0.005*"balian" + 0.005*"adam" + 0.004*"reaper" + 0.004*"team" + 0.004*"sarge" + 0.004*"knight" + 0.004*"miller"
+Topic: 2 
+Words: 0.007*"alice" + 0.007*"caesar" + 0.006*"christine" + 0.005*"house" + 0.004*"attack" + 0.004*"umbrella" + 0.004*"erik" + 0.004*"take" + 0.004*"grace" + 0.004*"robert"
+Topic: 3 
+Words: 0.011*"paul" + 0.008*"marcos" + 0.006*"gabriel" + 0.005*"shy" + 0.005*"grenouille" + 0.004*"aiden" + 0.004*"life" + 0.004*"vivian" + 0.004*"scent" + 0.004*"clive"
+Topic: 4 
+Words: 0.007*"nemo" + 0.005*"tristan" + 0.005*"ali" + 0.005*"marke" + 0.004*"back" + 0.004*"one" + 0.004*"go" + 0.004*"harry" + 0.004*"anna" + 0.004*"morgan"
+
+Topics for Region: ['America', '\u200bEurop Region', 'America']
+Topic: 0 
+Words: 0.006*"cossack" + 0.006*"polish" + 0.006*"pole" + 0.006*"andrei" + 0.006*"tara" + 0.006*"city" + 0.006*"battle" + 0.006*"there" + 0.006*"army" + 0.006*"back"
+Topic: 1 
+Words: 0.006*"cossack" + 0.006*"pole" + 0.006*"andrei" + 0.006*"city" + 0.006*"polish" + 0.006*"there" + 0.006*"lead" + 0.006*"tara" + 0.006*"home" + 0.006*"attack"
+Topic: 2 
+Words: 0.060*"cossack" + 0.029*"pole" + 0.025*"polish" + 0.025*"andrei" + 0.018*"tara" + 0.015*"there" + 0.015*"battle" + 0.015*"city" + 0.011*"son" + 0.011*"lead"
+Topic: 3 
+Words: 0.006*"cossack" + 0.006*"andrei" + 0.006*"pole" + 0.006*"polish" + 0.006*"battle" + 0.006*"tara" + 0.006*"son" + 0.006*"city" + 0.006*"save" + 0.006*"siege"
+Topic: 4 
+Words: 0.006*"cossack" + 0.006*"andrei" + 0.006*"pole" + 0.006*"polish" + 0.006*"tara" + 0.006*"city" + 0.006*"battle" + 0.006*"there" + 0.006*"them" + 0.006*"siege"
+
+Topics for Region: ['America', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.008*"morgaine" + 0.006*"arthur" + 0.005*"witch" + 0.004*"one" + 0.004*"tell" + 0.003*"day" + 0.003*"gwenhwyfar" + 0.003*"lot" + 0.003*"take" + 0.003*"go"
+Topic: 1 
+Words: 0.007*"harry" + 0.005*"jack" + 0.004*"find" + 0.004*"one" + 0.004*"kill" + 0.004*"edmond" + 0.003*"danny" + 0.003*"him" + 0.003*"get" + 0.003*"two"
+Topic: 2 
+Words: 0.005*"father" + 0.004*"english" + 0.004*"toorop" + 0.004*"find" + 0.004*"him" + 0.004*"man" + 0.004*"one" + 0.003*"aurora" + 0.003*"get" + 0.003*"angel"
+Topic: 3 
+Words: 0.005*"dantès" + 0.005*"find" + 0.005*"him" + 0.005*"tell" + 0.004*"mathayus" + 0.004*"achilles" + 0.004*"one" + 0.003*"back" + 0.003*"kill" + 0.003*"go"
+Topic: 4 
+Words: 0.006*"joseph" + 0.005*"ilius" + 0.005*"mace" + 0.005*"charlie" + 0.005*"him" + 0.004*"find" + 0.004*"back" + 0.003*"one" + 0.003*"jacob" + 0.003*"go"
+
+Topics for Region: ['America', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.001*"hal" + 0.001*"falstaff" + 0.001*"iv" + 0.001*"henry" + 0.001*"king" + 0.001*"hotspur" + 0.001*"men" + 0.001*"lucas" + 0.001*"back" + 0.001*"jacques"
+Topic: 1 
+Words: 0.028*"george" + 0.018*"majid" + 0.018*"lucas" + 0.012*"son" + 0.012*"pierrot" + 0.012*"majids" + 0.012*"jacques" + 0.011*"anne" + 0.011*"tape" + 0.009*"him"
+Topic: 2 
+Words: 0.046*"falstaff" + 0.044*"hal" + 0.035*"henry" + 0.032*"iv" + 0.019*"king" + 0.016*"hotspur" + 0.015*"men" + 0.011*"tavern" + 0.008*"castle" + 0.008*"poins"
+Topic: 3 
+Words: 0.039*"caspian" + 0.018*"peter" + 0.018*"miraz" + 0.015*"narnia" + 0.013*"lucy" + 0.013*"aslan" + 0.013*"narnians" + 0.012*"return" + 0.010*"kill" + 0.010*"telmarines"
+Topic: 4 
+Words: 0.001*"caspian" + 0.001*"george" + 0.001*"peter" + 0.001*"majid" + 0.001*"son" + 0.001*"miraz" + 0.001*"lucas" + 0.001*"narnia" + 0.001*"majids" + 0.001*"narnians"
+
+Topics for Region: ['Cis', 'Asia and Pacific']
+Topic: 0 
+Words: 0.046*"ali" + 0.044*"baba" + 0.018*"father" + 0.018*"abu" + 0.016*"hassan" + 0.013*"marjeena" + 0.013*"qasim" + 0.013*"spell" + 0.011*"khazi" + 0.011*"dacoit"
+Topic: 1 
+Words: 0.002*"ali" + 0.002*"baba" + 0.002*"father" + 0.002*"abu" + 0.002*"home" + 0.002*"hassan" + 0.002*"find" + 0.002*"spell" + 0.002*"qasim" + 0.002*"marjeena"
+Topic: 2 
+Words: 0.027*"sultan" + 0.017*"ajooba" + 0.015*"vazir" + 0.012*"land" + 0.012*"ameer" + 0.012*"baba" + 0.010*"vazirs" + 0.008*"child" + 0.008*"eventually" + 0.008*"throne"
+Topic: 3 
+Words: 0.038*"penguin" + 0.021*"egg" + 0.019*"scamper" + 0.015*"teacher" + 0.011*"one" + 0.011*"male" + 0.011*"coach" + 0.011*"return" + 0.009*"swim" + 0.009*"seal"
+Topic: 4 
+Words: 0.028*"vietnamese" + 0.012*"ship" + 0.012*"american" + 0.012*"vietnam" + 0.012*"soviet" + 0.008*"friend" + 0.008*"north" + 0.008*"haiphong" + 0.008*"actress" + 0.008*"people"
+
+Topics for Region: ['\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.011*"help" + 0.011*"heart" + 0.011*"opium" + 0.011*"manchu" + 0.011*"fu" + 0.006*"reserve" + 0.006*"evil" + 0.006*"local" + 0.006*"give" + 0.006*"set"
+Topic: 1 
+Words: 0.038*"dina" + 0.022*"zhukovsky" + 0.014*"niels" + 0.012*"death" + 0.012*"her" + 0.012*"jacob" + 0.010*"father" + 0.010*"dinas" + 0.008*"back" + 0.008*"lorch"
+Topic: 2 
+Words: 0.025*"german" + 0.016*"sprink" + 0.014*"soldier" + 0.014*"audebert" + 0.013*"trench" + 0.008*"palmer" + 0.008*"day" + 0.008*"scottish" + 0.008*"french" + 0.008*"scot"
+Topic: 3 
+Words: 0.001*"molloy" + 0.001*"help" + 0.001*"fu" + 0.001*"give" + 0.001*"friend" + 0.001*"opium" + 0.001*"german" + 0.001*"manchu" + 0.001*"soldier" + 0.001*"take"
+Topic: 4 
+Words: 0.036*"molloy" + 0.020*"friend" + 0.016*"frankie" + 0.012*"haynes" + 0.009*"family" + 0.009*"see" + 0.009*"frankies" + 0.009*"funeral" + 0.009*"wake" + 0.009*"iraqi"
+
+Topics for Region: ['\u200bEurop Region', 'America', 'America', '\u200bEurop Region']
+Topic: 0 
+Words: 0.004*"aguirre" + 0.004*"raft" + 0.004*"ursúa" + 0.004*"expedition" + 0.004*"men" + 0.004*"de" + 0.004*"killed" + 0.004*"guzman" + 0.004*"group" + 0.004*"pizarro"
+Topic: 1 
+Words: 0.004*"aguirre" + 0.004*"raft" + 0.004*"ursúa" + 0.004*"de" + 0.004*"expedition" + 0.004*"killed" + 0.004*"pizarro" + 0.004*"guzman" + 0.004*"men" + 0.004*"leader"
+Topic: 2 
+Words: 0.004*"aguirre" + 0.004*"ursúa" + 0.004*"raft" + 0.004*"de" + 0.004*"men" + 0.004*"expedition" + 0.004*"guzman" + 0.004*"group" + 0.004*"jungle" + 0.004*"river"
+Topic: 3 
+Words: 0.028*"aguirre" + 0.023*"raft" + 0.021*"ursúa" + 0.014*"men" + 0.014*"de" + 0.014*"expedition" + 0.012*"group" + 0.012*"guzman" + 0.012*"killed" + 0.010*"soldier"
+Topic: 4 
+Words: 0.004*"aguirre" + 0.004*"raft" + 0.004*"expedition" + 0.004*"ursúa" + 0.004*"killed" + 0.004*"de" + 0.004*"jungle" + 0.004*"group" + 0.004*"men" + 0.004*"pizarro"
+
+Topics for Region: ['America', 'America', '\u200bEurop Region']
+Topic: 0 
+Words: 0.011*"luther" + 0.010*"jack" + 0.010*"adrian" + 0.009*"nick" + 0.009*"dwayne" + 0.006*"find" + 0.005*"go" + 0.005*"thomas" + 0.005*"travis" + 0.004*"money"
+Topic: 1 
+Words: 0.007*"pete" + 0.005*"buck" + 0.005*"police" + 0.005*"find" + 0.005*"cleatus" + 0.005*"get" + 0.005*"take" + 0.005*"him" + 0.004*"chicken" + 0.004*"the"
+Topic: 2 
+Words: 0.007*"naoh" + 0.005*"school" + 0.005*"fire" + 0.005*"amoukar" + 0.005*"tribe" + 0.005*"john" + 0.005*"snake" + 0.005*"plane" + 0.004*"make" + 0.004*"ika"
+Topic: 3 
+Words: 0.008*"tack" + 0.006*"chris" + 0.005*"elsa" + 0.004*"dren" + 0.004*"scott" + 0.004*"tyler" + 0.004*"timothy" + 0.004*"clive" + 0.003*"film" + 0.003*"jamie"
+Topic: 4 
+Words: 0.008*"doctor" + 0.007*"jason" + 0.006*"freddy" + 0.004*"avner" + 0.004*"josh" + 0.004*"angel" + 0.004*"gramm" + 0.004*"kill" + 0.004*"find" + 0.003*"group"
+
+Topics for Region: ['America', 'America', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.022*"blackthorn" + 0.012*"spaniard" + 0.010*"milady" + 0.010*"dartagnan" + 0.007*"money" + 0.007*"rochefort" + 0.007*"athos" + 0.006*"death" + 0.006*"return" + 0.006*"him"
+Topic: 1 
+Words: 0.001*"blackthorn" + 0.001*"house" + 0.001*"emma" + 0.001*"find" + 0.001*"him" + 0.001*"travis" + 0.001*"one" + 0.001*"surfer" + 0.001*"life" + 0.001*"kate"
+Topic: 2 
+Words: 0.016*"house" + 0.011*"emma" + 0.009*"betsy" + 0.008*"find" + 0.008*"travis" + 0.007*"mother" + 0.007*"him" + 0.006*"her" + 0.006*"father" + 0.006*"bell"
+Topic: 3 
+Words: 0.030*"esther" + 0.027*"kate" + 0.018*"max" + 0.017*"leena" + 0.012*"john" + 0.007*"daniel" + 0.007*"sister" + 0.007*"rubén" + 0.006*"gun" + 0.005*"shoot"
+Topic: 4 
+Words: 0.022*"surfer" + 0.021*"tom" + 0.016*"brandi" + 0.012*"doom" + 0.011*"garage" + 0.010*"sue" + 0.009*"reed" + 0.007*"back" + 0.007*"him" + 0.007*"car"
+
+Topics for Region: ['Africa']
+Topic: 0 
+Words: 0.010*"kwagga" + 0.008*"shark" + 0.008*"mackay" + 0.007*"zapman" + 0.005*"farm" + 0.005*"turn" + 0.005*"animal" + 0.005*"soldier" + 0.005*"human" + 0.005*"platoon"
+Topic: 1 
+Words: 0.024*"sweet" + 0.007*"savage" + 0.007*"bossy" + 0.007*"cowboy" + 0.007*"weedle" + 0.006*"south" + 0.006*"africa" + 0.006*"shorty" + 0.006*"shuck" + 0.005*"ship"
+Topic: 2 
+Words: 0.019*"xi" + 0.008*"one" + 0.008*"bottle" + 0.006*"guerrilla" + 0.006*"ndomé" + 0.006*"kate" + 0.006*"steyn" + 0.006*"tribe" + 0.005*"also" + 0.005*"world"
+Topic: 3 
+Words: 0.016*"vince" + 0.012*"bone" + 0.011*"desert" + 0.011*"mr" + 0.009*"dirkie" + 0.008*"king" + 0.007*"tsonga" + 0.006*"film" + 0.006*"bull" + 0.006*"give"
+Topic: 4 
+Words: 0.011*"boy" + 0.009*"friend" + 0.009*"men" + 0.008*"conference" + 0.008*"otelo" + 0.006*"take" + 0.006*"new" + 0.006*"story" + 0.006*"life" + 0.005*"young"
+
+Topics for Region: ['\u200bArab States', '\u200bArab States', '\u200bEurop Region']
+Topic: 0 
+Words: 0.018*"end" + 0.018*"tedium" + 0.018*"make" + 0.018*"along" + 0.018*"dor" + 0.018*"get" + 0.018*"goutte" + 0.018*"friend" + 0.018*"face" + 0.018*"murder"
+Topic: 1 
+Words: 0.018*"north" + 0.018*"neighborhood" + 0.018*"protest" + 0.018*"petty" + 0.018*"organise" + 0.018*"offense" + 0.018*"racist" + 0.018*"misunderstanding" + 0.018*"mutual" + 0.018*"relationship"
+Topic: 2 
+Words: 0.055*"life" + 0.029*"immigrant" + 0.029*"french" + 0.029*"salah" + 0.029*"day" + 0.029*"paris" + 0.016*"series" + 0.016*"depression" + 0.016*"share" + 0.016*"double"
+Topic: 3 
+Words: 0.018*"north" + 0.018*"neighborhood" + 0.018*"protest" + 0.018*"petty" + 0.018*"organise" + 0.018*"offense" + 0.018*"racist" + 0.018*"misunderstanding" + 0.018*"mutual" + 0.018*"relationship"
+Topic: 4 
+Words: 0.018*"life" + 0.018*"paris" + 0.018*"tedium" + 0.018*"they" + 0.018*"help" + 0.018*"rife" + 0.018*"tension" + 0.018*"face" + 0.018*"immigrant" + 0.018*"murder"
+
+Topics for Region: ['America', 'Africa']
+Topic: 0 
+Words: 0.022*"mandela" + 0.014*"springbok" + 0.009*"south" + 0.009*"black" + 0.009*"soviet" + 0.008*"african" + 0.008*"team" + 0.008*"year" + 0.006*"game" + 0.006*"pienaar"
+Topic: 1 
+Words: 0.026*"amy" + 0.024*"tom" + 0.021*"jessica" + 0.019*"car" + 0.019*"crawford" + 0.019*"david" + 0.014*"get" + 0.014*"lion" + 0.013*"tell" + 0.013*"brian"
+Topic: 2 
+Words: 0.044*"weston" + 0.028*"frost" + 0.013*"cia" + 0.011*"house" + 0.010*"safe" + 0.010*"vargas" + 0.010*"barlow" + 0.008*"file" + 0.007*"escape" + 0.007*"agent"
+Topic: 3 
+Words: 0.014*"quatermain" + 0.013*"chamber" + 0.013*"bockner" + 0.010*"dogati" + 0.010*"umbopo" + 0.009*"diamond" + 0.008*"nxumalo" + 0.007*"mine" + 0.006*"them" + 0.006*"jesse"
+Topic: 4 
+Words: 0.013*"anwar" + 0.009*"allan" + 0.009*"brother" + 0.007*"freeman" + 0.007*"fatima" + 0.007*"isabella" + 0.006*"africa" + 0.006*"khalid" + 0.005*"attack" + 0.005*"him"
+
+Topics for Region: ['America', 'America', 'Asia and Pacific']
+Topic: 0 
+Words: 0.039*"lucario" + 0.033*"ash" + 0.018*"aaron" + 0.017*"sir" + 0.015*"tree" + 0.015*"kidd" + 0.011*"pikachu" + 0.011*"aura" + 0.011*"mew" + 0.008*"time"
+Topic: 1 
+Words: 0.026*"earth" + 0.022*"yuji" + 0.022*"marlene" + 0.014*"second" + 0.013*"blue" + 0.011*"screamer" + 0.011*"hendricksson" + 0.010*"alliance" + 0.009*"station" + 0.008*"neb"
+Topic: 2 
+Words: 0.001*"yuji" + 0.001*"earth" + 0.001*"marlene" + 0.001*"time" + 0.001*"becomes" + 0.001*"ross" + 0.001*"hendricksson" + 0.001*"cure" + 0.001*"alliance" + 0.001*"second"
+Topic: 3 
+Words: 0.021*"alien" + 0.019*"jonesy" + 0.015*"henry" + 0.015*"grey" + 0.015*"mr" + 0.011*"owen" + 0.011*"duddits" + 0.011*"pete" + 0.011*"curtis" + 0.011*"worm"
+Topic: 4 
+Words: 0.020*"dog" + 0.020*"gordon" + 0.017*"james" + 0.013*"agent" + 0.013*"talia" + 0.010*"one" + 0.010*"11" + 0.008*"take" + 0.008*"man" + 0.008*"kill"
+
+Topics for Region: ['America', 'Asia and Pacific', 'America']
+Topic: 0 
+Words: 0.002*"alfred" + 0.002*"cropsy" + 0.002*"michelle" + 0.002*"todd" + 0.002*"camper" + 0.002*"eddy" + 0.002*"find" + 0.002*"karen" + 0.002*"frank" + 0.002*"tell"
+Topic: 1 
+Words: 0.044*"alfred" + 0.038*"cropsy" + 0.031*"todd" + 0.021*"karen" + 0.021*"michelle" + 0.019*"camper" + 0.016*"eddy" + 0.014*"sally" + 0.012*"find" + 0.010*"raft"
+Topic: 2 
+Words: 0.002*"cropsy" + 0.002*"alfred" + 0.002*"frank" + 0.002*"team" + 0.002*"todd" + 0.002*"cooper" + 0.002*"karen" + 0.002*"sarah" + 0.002*"tell" + 0.002*"michelle"
+Topic: 3 
+Words: 0.043*"frank" + 0.027*"cooper" + 0.019*"team" + 0.017*"sarah" + 0.013*"stanton" + 0.013*"marvin" + 0.013*"agent" + 0.011*"kill" + 0.011*"life" + 0.011*"joe"
+Topic: 4 
+Words: 0.002*"alfred" + 0.002*"cropsy" + 0.002*"todd" + 0.002*"frank" + 0.002*"karen" + 0.002*"michelle" + 0.002*"camper" + 0.002*"find" + 0.002*"cooper" + 0.002*"tell"
+
+Topics for Region: ['America', '\u200bArab States']
+Topic: 0 
+Words: 0.014*"david" + 0.011*"judy" + 0.009*"italian" + 0.009*"russell" + 0.007*"town" + 0.007*"war" + 0.007*"soldier" + 0.007*"mukhtar" + 0.005*"military" + 0.005*"kill"
+Topic: 1 
+Words: 0.013*"danny" + 0.010*"rider" + 0.008*"virus" + 0.008*"dr" + 0.007*"nadya" + 0.007*"carrigan" + 0.007*"johnny" + 0.007*"roarke" + 0.007*"ghost" + 0.005*"vaccine"
+Topic: 2 
+Words: 0.001*"toe" + 0.001*"rock" + 0.001*"wish" + 0.001*"mr" + 0.001*"loogie" + 0.001*"black" + 0.001*"home" + 0.001*"go" + 0.001*"back" + 0.001*"one"
+Topic: 3 
+Words: 0.009*"wilson" + 0.008*"husband" + 0.008*"plame" + 0.006*"bush" + 0.006*"leaf" + 0.006*"agency" + 0.006*"libby" + 0.006*"diyari" + 0.004*"use" + 0.004*"white"
+Topic: 4 
+Words: 0.029*"rock" + 0.024*"wish" + 0.020*"toe" + 0.016*"mr" + 0.016*"black" + 0.015*"loogie" + 0.009*"hel" + 0.008*"nose" + 0.007*"forest" + 0.007*"box"
+
+Topics for Region: ['\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.011*"karin" + 0.010*"cabin" + 0.009*"find" + 0.009*"johan" + 0.009*"henrik" + 0.007*"him" + 0.006*"marianne" + 0.005*"make" + 0.005*"go" + 0.005*"cello"
+Topic: 1 
+Words: 0.036*"julia" + 0.029*"augustus" + 0.018*"iullus" + 0.017*"tiberius" + 0.015*"tell" + 0.015*"rome" + 0.009*"father" + 0.009*"livia" + 0.009*"antony" + 0.008*"son"
+Topic: 2 
+Words: 0.030*"arn" + 0.011*"templar" + 0.009*"king" + 0.007*"wound" + 0.007*"son" + 0.007*"sweden" + 0.007*"saladin" + 0.007*"forsvik" + 0.007*"folkung" + 0.005*"film"
+Topic: 3 
+Words: 0.018*"jaffar" + 0.017*"piel" + 0.009*"planet" + 0.009*"perdide" + 0.007*"time" + 0.007*"yula" + 0.007*"silbad" + 0.007*"22" + 0.007*"double" + 0.007*"matton"
+Topic: 4 
+Words: 0.001*"jaffar" + 0.001*"him" + 0.001*"tell" + 0.001*"augustus" + 0.001*"time" + 0.001*"piel" + 0.001*"take" + 0.001*"arn" + 0.001*"go" + 0.001*"son"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.019*"sheep" + 0.018*"grace" + 0.016*"crocodile" + 0.015*"lee" + 0.014*"boat" + 0.014*"henry" + 0.013*"adam" + 0.012*"angus" + 0.007*"see" + 0.007*"experience"
+Topic: 1 
+Words: 0.059*"raju" + 0.038*"rajesh" + 0.012*"get" + 0.012*"say" + 0.010*"family" + 0.010*"go" + 0.010*"tell" + 0.007*"rinkie" + 0.007*"purshottam" + 0.007*"vicky"
+Topic: 2 
+Words: 0.021*"celliers" + 0.017*"yonoi" + 0.016*"bicycle" + 0.016*"guei" + 0.013*"jian" + 0.009*"lawrence" + 0.008*"hara" + 0.007*"prisoner" + 0.006*"boy" + 0.006*"day"
+Topic: 3 
+Words: 0.020*"alice" + 0.018*"saya" + 0.014*"vampire" + 0.009*"sharon" + 0.007*"father" + 0.007*"find" + 0.007*"go" + 0.007*"council" + 0.007*"onigen" + 0.007*"sayas"
+Topic: 4 
+Words: 0.001*"raju" + 0.001*"rajesh" + 0.001*"celliers" + 0.001*"go" + 0.001*"yonoi" + 0.001*"sheep" + 0.001*"one" + 0.001*"see" + 0.001*"find" + 0.001*"back"
+
+Topics for Region: ['America', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.012*"peter" + 0.009*"jobe" + 0.007*"wendy" + 0.006*"angus" + 0.006*"ann" + 0.006*"shaymin" + 0.005*"world" + 0.005*"return" + 0.005*"angelo" + 0.005*"dr"
+Topic: 1 
+Words: 0.013*"babe" + 0.010*"esme" + 0.010*"roy" + 0.009*"lin" + 0.009*"emperor" + 0.009*"wang" + 0.007*"animal" + 0.006*"find" + 0.006*"rathbone" + 0.005*"chef"
+Topic: 2 
+Words: 0.010*"queen" + 0.010*"duke" + 0.007*"elliot" + 0.007*"dartagnan" + 0.006*"wife" + 0.006*"king" + 0.006*"france" + 0.005*"group" + 0.005*"buckingham" + 0.005*"alma"
+Topic: 3 
+Words: 0.012*"tim" + 0.009*"witch" + 0.007*"boogeyman" + 0.007*"edmund" + 0.006*"house" + 0.006*"lucy" + 0.006*"closet" + 0.005*"return" + 0.005*"snakehead" + 0.005*"henry"
+Topic: 4 
+Words: 0.015*"ethan" + 0.008*"derek" + 0.006*"ambrose" + 0.006*"crew" + 0.006*"davian" + 0.006*"imf" + 0.005*"mission" + 0.004*"nyah" + 0.004*"matilda" + 0.004*"aircraft"
+
+Topics for Region: ['\u200bEurop Region', 'America', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.006*"vampire" + 0.006*"vampisol" + 0.006*"pepito" + 0.006*"formula" + 0.006*"dracula" + 0.006*"terrori" + 0.006*"beach" + 0.006*"von" + 0.006*"chicago" + 0.006*"european"
+Topic: 1 
+Words: 0.055*"vampire" + 0.026*"pepito" + 0.022*"formula" + 0.022*"vampisol" + 0.013*"group" + 0.013*"blood" + 0.013*"chicago" + 0.013*"beach" + 0.013*"terrori" + 0.013*"dracula"
+Topic: 2 
+Words: 0.006*"vampire" + 0.006*"pepito" + 0.006*"vampisol" + 0.006*"formula" + 0.006*"sunlight" + 0.006*"dracula" + 0.006*"blood" + 0.006*"chicago" + 0.006*"human" + 0.006*"effect"
+Topic: 3 
+Words: 0.006*"vampire" + 0.006*"pepito" + 0.006*"formula" + 0.006*"beach" + 0.006*"vampisol" + 0.006*"blood" + 0.006*"chicago" + 0.006*"group" + 0.006*"film" + 0.006*"amadeus"
+Topic: 4 
+Words: 0.006*"vampire" + 0.006*"pepito" + 0.006*"formula" + 0.006*"vampisol" + 0.006*"dracula" + 0.006*"say" + 0.006*"terrori" + 0.006*"instructing" + 0.006*"chicago" + 0.006*"trumpet"
+
+Topics for Region: ['America', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.047*"dre" + 0.030*"han" + 0.016*"cheng" + 0.010*"li" + 0.009*"dres" + 0.009*"tournament" + 0.008*"mei" + 0.006*"kung" + 0.006*"fu" + 0.005*"fight"
+Topic: 1 
+Words: 0.015*"john" + 0.010*"poe" + 0.009*"karen" + 0.006*"sarmad" + 0.005*"dday" + 0.005*"zed" + 0.005*"mansoor" + 0.005*"mary" + 0.004*"manages" + 0.004*"prison"
+Topic: 2 
+Words: 0.016*"rae" + 0.013*"jason" + 0.011*"hughie" + 0.011*"john" + 0.010*"turtle" + 0.008*"staff" + 0.008*"shredder" + 0.008*"warlord" + 0.007*"back" + 0.007*"foot"
+Topic: 3 
+Words: 0.018*"robot" + 0.017*"astro" + 0.013*"max" + 0.010*"toby" + 0.010*"core" + 0.009*"stone" + 0.008*"tenma" + 0.008*"child" + 0.008*"blaster" + 0.007*"peacekeeper"
+Topic: 4 
+Words: 0.012*"scepter" + 0.011*"go" + 0.010*"turtle" + 0.010*"michelangelo" + 0.009*"back" + 0.007*"find" + 0.007*"guard" + 0.007*"lord" + 0.007*"honor" + 0.006*"time"
+
+Topics for Region: ['Cis', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.002*"mio" + 0.002*"film" + 0.002*"katos" + 0.002*"bosse" + 0.002*"jumjum" + 0.002*"father" + 0.002*"soviet" + 0.002*"boy" + 0.002*"friend" + 0.002*"land"
+Topic: 1 
+Words: 0.026*"mio" + 0.020*"katos" + 0.016*"bosse" + 0.014*"boy" + 0.014*"bird" + 0.012*"father" + 0.012*"land" + 0.012*"kato" + 0.012*"jumjum" + 0.010*"outside"
+Topic: 2 
+Words: 0.022*"five" + 0.022*"year" + 0.011*"daughter" + 0.011*"kotov" + 0.011*"nadia" + 0.011*"maroussia" + 0.011*"gulag" + 0.011*"former" + 0.011*"general" + 0.011*"wife"
+Topic: 3 
+Words: 0.002*"mio" + 0.002*"katos" + 0.002*"film" + 0.002*"bosse" + 0.002*"father" + 0.002*"dead" + 0.002*"kato" + 0.002*"bird" + 0.002*"soviet" + 0.002*"boy"
+Topic: 4 
+Words: 0.018*"film" + 0.018*"soldier" + 0.014*"soviet" + 0.014*"friend" + 0.014*"company" + 0.011*"veteran" + 0.011*"afghanistan" + 0.011*"battle" + 0.008*"hero" + 0.008*"one"
+
+Topics for Region: ['America', 'Africa', 'America']
+Topic: 0 
+Words: 0.056*"ninja" + 0.038*"sean" + 0.038*"cobra" + 0.021*"american" + 0.021*"partner" + 0.021*"known" + 0.021*"led" + 0.021*"lee" + 0.021*"warfare" + 0.021*"jackson"
+Topic: 1 
+Words: 0.010*"american" + 0.010*"film" + 0.010*"script" + 0.010*"charlie" + 0.010*"disraeli" + 0.010*"bobby" + 0.010*"convert" + 0.010*"south" + 0.010*"original" + 0.010*"freedom"
+Topic: 2 
+Words: 0.010*"american" + 0.010*"lee" + 0.010*"partner" + 0.010*"jackson" + 0.010*"james" + 0.010*"known" + 0.010*"terrorist" + 0.010*"human" + 0.010*"the" + 0.010*"pig"
+Topic: 3 
+Words: 0.010*"american" + 0.010*"film" + 0.010*"script" + 0.010*"convert" + 0.010*"charlie" + 0.010*"disraeli" + 0.010*"bobby" + 0.010*"judaism" + 0.010*"advising" + 0.010*"suicide"
+Topic: 4 
+Words: 0.042*"film" + 0.032*"script" + 0.032*"charlie" + 0.022*"bobby" + 0.022*"convert" + 0.022*"disraeli" + 0.012*"location" + 0.012*"mason" + 0.012*"proceeds" + 0.012*"middle"
+
+Topics for Region: ['America', 'Cis', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.052*"army" + 0.040*"german" + 0.027*"south" + 0.027*"soviet" + 0.027*"1942" + 0.027*"command" + 0.027*"stalingrad" + 0.015*"seems" + 0.015*"end" + 0.015*"closequartered"
+Topic: 1 
+Words: 0.017*"november" + 0.017*"chuikov" + 0.017*"surrender" + 0.017*"chuikovs" + 0.017*"september" + 0.017*"combat" + 0.017*"1943" + 0.017*"adolf" + 0.017*"operation" + 0.017*"hold"
+Topic: 2 
+Words: 0.017*"bock" + 0.017*"surrender" + 0.017*"blau" + 0.017*"closequartered" + 0.017*"city" + 0.017*"hitler" + 0.017*"operation" + 0.017*"november" + 0.017*"hold" + 0.017*"launch"
+Topic: 3 
+Words: 0.017*"manage" + 0.017*"january" + 0.017*"operation" + 0.017*"november" + 0.017*"movie" + 0.017*"red" + 0.017*"launch" + 0.017*"hand" + 0.017*"hitler" + 0.017*"scattering"
+Topic: 4 
+Words: 0.017*"army" + 0.017*"german" + 0.017*"stalingrad" + 0.017*"1942" + 0.017*"command" + 0.017*"soviet" + 0.017*"surrender" + 0.017*"city" + 0.017*"manage" + 0.017*"approaching"
+
+Topics for Region: ['America', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.034*"crew" + 0.018*"fbi" + 0.013*"truck" + 0.013*"red" + 0.012*"cutler" + 0.010*"also" + 0.010*"attempt" + 0.008*"trip" + 0.008*"load" + 0.008*"wes"
+Topic: 1 
+Words: 0.028*"stanton" + 0.015*"henry" + 0.011*"ridley" + 0.010*"libby" + 0.010*"campaign" + 0.009*"political" + 0.009*"picker" + 0.007*"jack" + 0.006*"daughter" + 0.006*"friend"
+Topic: 2 
+Words: 0.026*"alice" + 0.017*"umbrella" + 0.015*"isaac" + 0.013*"facility" + 0.011*"infected" + 0.010*"survivor" + 0.010*"clone" + 0.008*"convoy" + 0.007*"her" + 0.007*"carlos"
+Topic: 3 
+Words: 0.012*"pyle" + 0.009*"american" + 0.009*"driver" + 0.009*"fowler" + 0.008*"drive" + 0.008*"story" + 0.006*"one" + 0.006*"war" + 0.006*"vietnamese" + 0.006*"corky"
+Topic: 4 
+Words: 0.048*"hank" + 0.026*"jacob" + 0.017*"money" + 0.014*"man" + 0.013*"tell" + 0.011*"lou" + 0.010*"kill" + 0.010*"brother" + 0.010*"plane" + 0.010*"fbi"
+
+Topics for Region: ['Cis', '\u200bEurop Region']
+Topic: 0 
+Words: 0.055*"jesus" + 0.014*"tamar" + 0.012*"go" + 0.011*"tell" + 0.011*"jairus" + 0.009*"him" + 0.009*"ben" + 0.009*"azra" + 0.009*"temple" + 0.008*"mary"
+Topic: 1 
+Words: 0.001*"jesus" + 0.001*"tamar" + 0.001*"go" + 0.001*"jairus" + 0.001*"tell" + 0.001*"kotov" + 0.001*"come" + 0.001*"ben" + 0.001*"him" + 0.001*"simon"
+Topic: 2 
+Words: 0.030*"kotov" + 0.017*"mitya" + 0.012*"book" + 0.010*"film" + 0.009*"nadia" + 0.009*"peasant" + 0.008*"agent" + 0.008*"soviet" + 0.008*"fandorin" + 0.008*"nkvd"
+Topic: 3 
+Words: 0.010*"brother" + 0.010*"kurdish" + 0.010*"drafted" + 0.010*"iraqi" + 0.005*"eventually" + 0.005*"killed" + 0.005*"attack" + 0.005*"child" + 0.005*"new" + 0.005*"among"
+Topic: 4 
+Words: 0.001*"jesus" + 0.001*"kotov" + 0.001*"tell" + 0.001*"tamar" + 0.001*"azra" + 0.001*"jairus" + 0.001*"film" + 0.001*"simon" + 0.001*"russian" + 0.001*"mary"
+
+Topics for Region: ['Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.027*"sangha" + 0.027*"mcrory" + 0.022*"kumal" + 0.022*"tiger" + 0.018*"mother" + 0.018*"cub" + 0.015*"two" + 0.010*"temple" + 0.010*"brother" + 0.010*"appears"
+Topic: 1 
+Words: 0.002*"mcrory" + 0.002*"sangha" + 0.002*"two" + 0.002*"prince" + 0.002*"cub" + 0.002*"richter" + 0.002*"young" + 0.002*"tiger" + 0.002*"kumal" + 0.002*"mother"
+Topic: 2 
+Words: 0.002*"earth" + 0.002*"adler" + 0.002*"richter" + 0.002*"nazi" + 0.002*"moon" + 0.002*"president" + 0.002*"back" + 0.002*"spacecraft" + 0.002*"young" + 0.002*"prince"
+Topic: 3 
+Words: 0.002*"goblin" + 0.002*"find" + 0.002*"sangha" + 0.002*"irene" + 0.002*"tiger" + 0.002*"adler" + 0.002*"mcrory" + 0.002*"kumal" + 0.002*"great" + 0.002*"richter"
+Topic: 4 
+Words: 0.016*"earth" + 0.016*"richter" + 0.015*"adler" + 0.013*"find" + 0.013*"irene" + 0.013*"washington" + 0.011*"goblin" + 0.011*"moon" + 0.011*"nazi" + 0.010*"curdie"
+
+Topics for Region: ['America', 'Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.060*"napoleon" + 0.020*"cat" + 0.016*"birdo" + 0.016*"wild" + 0.013*"dog" + 0.011*"basket" + 0.009*"return" + 0.009*"mother" + 0.008*"help" + 0.008*"begin"
+Topic: 1 
+Words: 0.041*"kunlun" + 0.034*"qingcheng" + 0.025*"guangming" + 0.021*"wuhuan" + 0.021*"king" + 0.018*"snow" + 0.016*"wolf" + 0.012*"one" + 0.009*"cliff" + 0.009*"save"
+Topic: 2 
+Words: 0.001*"napoleon" + 0.001*"kunlun" + 0.001*"cat" + 0.001*"wild" + 0.001*"birdo" + 0.001*"one" + 0.001*"qingcheng" + 0.001*"dog" + 0.001*"return" + 0.001*"mother"
+Topic: 3 
+Words: 0.037*"jen" + 0.026*"mu" + 0.026*"bai" + 0.024*"fox" + 0.022*"shu" + 0.022*"lien" + 0.017*"lo" + 0.012*"sword" + 0.009*"him" + 0.009*"wudang"
+Topic: 4 
+Words: 0.001*"jen" + 0.001*"bai" + 0.001*"mu" + 0.001*"lien" + 0.001*"shu" + 0.001*"fox" + 0.001*"lo" + 0.001*"sword" + 0.001*"kunlun" + 0.001*"one"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.026*"village" + 0.022*"sikh" + 0.019*"saleem" + 0.019*"ayesha" + 0.013*"muslim" + 0.010*"pakistan" + 0.009*"well" + 0.009*"go" + 0.009*"partition" + 0.009*"veero"
+Topic: 1 
+Words: 0.030*"juliet" + 0.028*"pauline" + 0.020*"two" + 0.014*"world" + 0.012*"girl" + 0.012*"plan" + 0.010*"time" + 0.010*"mother" + 0.010*"together" + 0.010*"juliets"
+Topic: 2 
+Words: 0.002*"juliet" + 0.002*"sikh" + 0.002*"pauline" + 0.002*"two" + 0.002*"village" + 0.002*"ayesha" + 0.002*"mother" + 0.002*"girl" + 0.002*"saleem" + 0.002*"muslim"
+Topic: 3 
+Words: 0.002*"village" + 0.002*"ayesha" + 0.002*"sikh" + 0.002*"saleem" + 0.002*"muslim" + 0.002*"go" + 0.002*"pakistan" + 0.002*"mother" + 0.002*"well" + 0.002*"girl"
+Topic: 4 
+Words: 0.002*"village" + 0.002*"sikh" + 0.002*"juliet" + 0.002*"ayesha" + 0.002*"saleem" + 0.002*"pauline" + 0.002*"two" + 0.002*"go" + 0.002*"girl" + 0.002*"muslim"
+
+Topics for Region: ['America', 'America', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.020*"jane" + 0.018*"peter" + 0.011*"zombie" + 0.010*"lost" + 0.010*"boy" + 0.009*"ana" + 0.009*"group" + 0.008*"kenneth" + 0.007*"find" + 0.007*"home"
+Topic: 1 
+Words: 0.001*"william" + 0.001*"kill" + 0.001*"zombie" + 0.001*"paul" + 0.001*"peter" + 0.001*"john" + 0.001*"wife" + 0.001*"find" + 0.001*"escape" + 0.001*"one"
+Topic: 2 
+Words: 0.001*"jane" + 0.001*"peter" + 0.001*"boy" + 0.001*"find" + 0.001*"escape" + 0.001*"home" + 0.001*"hook" + 0.001*"lost" + 0.001*"him" + 0.001*"kill"
+Topic: 3 
+Words: 0.016*"william" + 0.012*"john" + 0.011*"room" + 0.011*"hoffman" + 0.009*"jill" + 0.008*"test" + 0.008*"erickson" + 0.006*"killed" + 0.006*"save" + 0.006*"amanda"
+Topic: 4 
+Words: 0.026*"yo" + 0.018*"emu" + 0.012*"freeman" + 0.012*"koh" + 0.011*"wife" + 0.011*"kill" + 0.011*"ryuji" + 0.011*"paul" + 0.009*"son" + 0.009*"netah"
+
+Topics for Region: ['Asia and Pacific', 'America']
+Topic: 0 
+Words: 0.005*"keung" + 0.005*"tiger" + 0.005*"street" + 0.005*"bikies" + 0.005*"diamond" + 0.005*"white" + 0.005*"hovercraft" + 0.005*"supermarket" + 0.005*"nancy" + 0.005*"syndicate"
+Topic: 1 
+Words: 0.005*"keung" + 0.005*"diamond" + 0.005*"tiger" + 0.005*"street" + 0.005*"syndicate" + 0.005*"bikies" + 0.005*"start" + 0.005*"supermarket" + 0.005*"white" + 0.005*"men"
+Topic: 2 
+Words: 0.045*"keung" + 0.020*"diamond" + 0.017*"white" + 0.017*"tiger" + 0.017*"street" + 0.017*"supermarket" + 0.014*"nancy" + 0.014*"syndicate" + 0.014*"bikies" + 0.012*"hovercraft"
+Topic: 3 
+Words: 0.005*"keung" + 0.005*"diamond" + 0.005*"white" + 0.005*"street" + 0.005*"supermarket" + 0.005*"bikies" + 0.005*"nancy" + 0.005*"gangster" + 0.005*"hovercraft" + 0.005*"syndicate"
+Topic: 4 
+Words: 0.005*"keung" + 0.005*"white" + 0.005*"diamond" + 0.005*"supermarket" + 0.005*"syndicate" + 0.005*"street" + 0.005*"hovercraft" + 0.005*"bikies" + 0.005*"start" + 0.005*"back"
+
+Topics for Region: ['Cis', 'America', '\u200bEurop Region']
+Topic: 0 
+Words: 0.011*"alex" + 0.011*"harry" + 0.011*"client" + 0.011*"make" + 0.011*"father" + 0.011*"turn" + 0.011*"palmer" + 0.011*"yuri" + 0.011*"pressure" + 0.011*"moscow"
+Topic: 1 
+Words: 0.011*"colonel" + 0.011*"looking" + 0.011*"talk" + 0.011*"palmer" + 0.011*"enemy" + 0.011*"associate" + 0.011*"business" + 0.011*"know" + 0.011*"1000" + 0.011*"reporter"
+Topic: 2 
+Words: 0.035*"alex" + 0.035*"harry" + 0.027*"nick" + 0.019*"tatiana" + 0.019*"also" + 0.019*"working" + 0.019*"head" + 0.019*"helping" + 0.019*"yuri" + 0.010*"gradsky"
+Topic: 3 
+Words: 0.011*"rival" + 0.011*"order" + 0.011*"investigation" + 0.011*"go" + 0.011*"nikolai" + 0.011*"him" + 0.011*"government" + 0.011*"steal" + 0.011*"craig" + 0.011*"petrov"
+Topic: 4 
+Words: 0.011*"harry" + 0.011*"alex" + 0.011*"nick" + 0.011*"head" + 0.011*"yuri" + 0.011*"helping" + 0.011*"also" + 0.011*"working" + 0.011*"tatiana" + 0.011*"dr"
+
+Topics for Region: ['America', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.001*"pinocchio" + 0.001*"geppetto" + 0.001*"new" + 0.001*"boy" + 0.001*"puppet" + 0.001*"attempt" + 0.001*"lorenzini" + 0.001*"arrives" + 0.001*"freud" + 0.001*"jung"
+Topic: 1 
+Words: 0.053*"pinocchio" + 0.029*"geppetto" + 0.017*"boy" + 0.017*"lorenzini" + 0.016*"puppet" + 0.007*"tell" + 0.007*"real" + 0.007*"fountain" + 0.007*"however" + 0.007*"tree"
+Topic: 2 
+Words: 0.022*"jung" + 0.019*"freud" + 0.011*"new" + 0.008*"sabina" + 0.008*"sexual" + 0.008*"relationship" + 0.008*"patient" + 0.008*"child" + 0.008*"doctor" + 0.008*"idea"
+Topic: 3 
+Words: 0.018*"chávez" + 0.015*"chapter" + 0.015*"ónbspbriain" + 0.012*"take" + 0.012*"palace" + 0.009*"television" + 0.009*"supporter" + 0.009*"chávezs" + 0.009*"medium" + 0.009*"president"
+Topic: 4 
+Words: 0.001*"pinocchio" + 0.001*"geppetto" + 0.001*"puppet" + 0.001*"boy" + 0.001*"lorenzini" + 0.001*"chávez" + 0.001*"take" + 0.001*"chapter" + 0.001*"away" + 0.001*"ónbspbriain"
+
+Topics for Region: ['America', 'Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.003*"dagosta" + 0.003*"museum" + 0.003*"lt" + 0.003*"margo" + 0.003*"ship" + 0.003*"leaf" + 0.003*"dr" + 0.003*"lab" + 0.003*"inside" + 0.003*"kothoga"
+Topic: 1 
+Words: 0.003*"lt" + 0.003*"kothoga" + 0.003*"dagosta" + 0.003*"museum" + 0.003*"leaf" + 0.003*"whitney" + 0.003*"margo" + 0.003*"ship" + 0.003*"lab" + 0.003*"dr"
+Topic: 2 
+Words: 0.003*"dagosta" + 0.003*"lt" + 0.003*"museum" + 0.003*"margo" + 0.003*"leaf" + 0.003*"kothoga" + 0.003*"dr" + 0.003*"ship" + 0.003*"inside" + 0.003*"whitney"
+Topic: 3 
+Words: 0.003*"dagosta" + 0.003*"museum" + 0.003*"lt" + 0.003*"margo" + 0.003*"kothoga" + 0.003*"inside" + 0.003*"whitney" + 0.003*"dr" + 0.003*"leaf" + 0.003*"find"
+Topic: 4 
+Words: 0.022*"dagosta" + 0.019*"lt" + 0.019*"museum" + 0.016*"leaf" + 0.016*"margo" + 0.014*"kothoga" + 0.012*"ship" + 0.012*"whitney" + 0.011*"find" + 0.011*"inside"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.001*"alexander" + 0.001*"zhao" + 0.001*"gu" + 0.001*"battle" + 0.001*"liu" + 0.001*"army" + 0.001*"cao" + 0.001*"old" + 0.001*"men" + 0.001*"later"
+Topic: 1 
+Words: 0.017*"hong" + 0.010*"child" + 0.010*"fujian" + 0.007*"eventually" + 0.007*"find" + 0.007*"back" + 0.007*"bos" + 0.007*"son" + 0.007*"take" + 0.007*"visit"
+Topic: 2 
+Words: 0.038*"alexander" + 0.010*"macedonia" + 0.010*"world" + 0.009*"persia" + 0.008*"philip" + 0.007*"sword" + 0.007*"battle" + 0.007*"king" + 0.006*"new" + 0.006*"killed"
+Topic: 3 
+Words: 0.023*"ichi" + 0.022*"zhao" + 0.016*"kakihara" + 0.013*"cao" + 0.010*"liu" + 0.010*"jijii" + 0.009*"him" + 0.009*"battle" + 0.008*"attack" + 0.008*"later"
+Topic: 4 
+Words: 0.033*"gu" + 0.011*"old" + 0.011*"wang" + 0.009*"men" + 0.009*"company" + 0.007*"order" + 0.007*"officer" + 0.007*"mine" + 0.005*"enemy" + 0.005*"call"
+
+Topics for Region: ['Cis', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.011*"tolstoy" + 0.011*"banishes" + 0.011*"distraught" + 0.011*"year" + 0.011*"harvest" + 0.011*"want" + 0.011*"passionate" + 0.011*"military" + 0.011*"beautiful" + 0.011*"long"
+Topic: 1 
+Words: 0.011*"forest" + 0.011*"two" + 0.011*"secrettwenty" + 0.011*"invention" + 0.011*"interest" + 0.011*"russia" + 0.011*"false" + 0.011*"arrived" + 0.011*"meet" + 0.011*"isolation"
+Topic: 2 
+Words: 0.011*"famous" + 0.011*"need" + 0.011*"powerful" + 0.011*"fondness" + 0.011*"forest" + 0.011*"hard" + 0.011*"obsessive" + 0.011*"night" + 0.011*"him" + 0.011*"secrettwenty"
+Topic: 3 
+Words: 0.011*"tolstoy" + 0.011*"rival" + 0.011*"overhears" + 0.011*"year" + 0.011*"general" + 0.011*"famous" + 0.011*"military" + 0.011*"jane" + 0.011*"assist" + 0.011*"two"
+Topic: 4 
+Words: 0.035*"tolstoy" + 0.027*"general" + 0.027*"year" + 0.018*"young" + 0.018*"radlov" + 0.018*"love" + 0.018*"marry" + 0.018*"rival" + 0.018*"jane" + 0.010*"patronage"
+
+Topics for Region: ['America', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.036*"lara" + 0.019*"reiss" + 0.011*"terry" + 0.010*"life" + 0.010*"box" + 0.010*"orb" + 0.010*"cradle" + 0.008*"bryce" + 0.007*"kosa" + 0.006*"killed"
+Topic: 1 
+Words: 0.021*"murrow" + 0.012*"communist" + 0.010*"television" + 0.010*"mccarthy" + 0.007*"cbs" + 0.007*"joseph" + 0.007*"accused" + 0.005*"film" + 0.005*"show" + 0.005*"good"
+Topic: 2 
+Words: 0.019*"bishop" + 0.018*"lara" + 0.014*"muir" + 0.012*"triangle" + 0.010*"father" + 0.010*"powell" + 0.009*"clock" + 0.009*"cia" + 0.007*"half" + 0.007*"rescue"
+Topic: 3 
+Words: 0.033*"jeremiah" + 0.029*"sarah" + 0.009*"mother" + 0.009*"son" + 0.009*"hospital" + 0.006*"later" + 0.006*"abandon" + 0.006*"meth" + 0.006*"cult" + 0.006*"food"
+Topic: 4 
+Words: 0.021*"dog" + 0.019*"ghost" + 0.013*"james" + 0.013*"grady" + 0.010*"louie" + 0.008*"kill" + 0.008*"car" + 0.007*"also" + 0.007*"gradys" + 0.007*"crabtree"
+
+Topics for Region: ['Africa', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.037*"village" + 0.037*"ossei" + 0.037*"soldier" + 0.020*"kill" + 0.020*"group" + 0.020*"adanggaman" + 0.020*"manages" + 0.020*"late" + 0.020*"ordering" + 0.020*"named"
+Topic: 1 
+Words: 0.021*"ordering" + 0.021*"slave" + 0.021*"chasing" + 0.021*"one" + 0.021*"west" + 0.021*"king" + 0.021*"torch" + 0.021*"naka" + 0.021*"group" + 0.021*"family"
+Topic: 2 
+Words: 0.021*"except" + 0.021*"healthy" + 0.021*"fall" + 0.021*"one" + 0.021*"king" + 0.021*"manages" + 0.021*"free" + 0.021*"war" + 0.021*"adanggaman" + 0.021*"torch"
+Topic: 3 
+Words: 0.021*"west" + 0.021*"european" + 0.021*"fierce" + 0.021*"17th" + 0.021*"murdered" + 0.021*"chasing" + 0.021*"ordering" + 0.021*"kill" + 0.021*"attack" + 0.021*"capture"
+Topic: 4 
+Words: 0.021*"healthy" + 0.021*"her" + 0.021*"west" + 0.021*"century" + 0.021*"lead" + 0.021*"king" + 0.021*"chasing" + 0.021*"fall" + 0.021*"sell" + 0.021*"except"
+
+Topics for Region: ['\u200bArab States', '\u200bEurop Region']
+Topic: 0 
+Words: 0.042*"life" + 0.042*"terrorist" + 0.042*"group" + 0.023*"think" + 0.023*"like" + 0.023*"cold" + 0.023*"former" + 0.023*"neighborhood" + 0.023*"village" + 0.023*"argel"
+Topic: 1 
+Words: 0.017*"exgirlfriend" + 0.017*"disorder" + 0.017*"zeina" + 0.017*"kidnapped" + 0.017*"husband" + 0.017*"malek" + 0.017*"ago" + 0.017*"civil" + 0.017*"mother" + 0.017*"disappearance"
+Topic: 2 
+Words: 0.017*"group" + 0.017*"nearby" + 0.017*"her" + 0.017*"sofiane" + 0.017*"teach" + 0.017*"asks" + 0.017*"confronted" + 0.017*"blood" + 0.017*"refuse" + 0.017*"popular"
+Topic: 3 
+Words: 0.061*"year" + 0.033*"zeina" + 0.033*"man" + 0.033*"disorder" + 0.033*"mother" + 0.033*"disappearance" + 0.033*"meanwhile" + 0.033*"malek" + 0.033*"civil" + 0.033*"kidnapped"
+Topic: 4 
+Words: 0.017*"exgirlfriend" + 0.017*"disappearance" + 0.017*"malek" + 0.017*"kidnapped" + 0.017*"husband" + 0.017*"meanwhile" + 0.017*"disorder" + 0.017*"26" + 0.017*"ago" + 0.017*"mother"
+
+Topics for Region: ['Asia and Pacific', 'America', '\u200bEurop Region']
+Topic: 0 
+Words: 0.057*"jake" + 0.020*"jantapan" + 0.020*"sunti" + 0.015*"karaf" + 0.015*"girl" + 0.015*"abu" + 0.011*"leon" + 0.009*"spiritual" + 0.008*"go" + 0.008*"cia"
+Topic: 1 
+Words: 0.003*"jake" + 0.003*"jantapan" + 0.003*"sunti" + 0.003*"abu" + 0.003*"karaf" + 0.003*"girl" + 0.003*"leon" + 0.003*"spiritual" + 0.003*"take" + 0.003*"thailand"
+Topic: 2 
+Words: 0.003*"jake" + 0.003*"sunti" + 0.003*"karaf" + 0.003*"girl" + 0.003*"abu" + 0.003*"jantapan" + 0.003*"leon" + 0.003*"spiritual" + 0.003*"go" + 0.003*"cia"
+Topic: 3 
+Words: 0.003*"jake" + 0.003*"sunti" + 0.003*"jantapan" + 0.003*"abu" + 0.003*"girl" + 0.003*"karaf" + 0.003*"leon" + 0.003*"kidnapped" + 0.003*"go" + 0.003*"spiritual"
+Topic: 4 
+Words: 0.003*"jake" + 0.003*"girl" + 0.003*"sunti" + 0.003*"jantapan" + 0.003*"abu" + 0.003*"karaf" + 0.003*"leon" + 0.003*"spiritual" + 0.003*"cia" + 0.003*"go"
+
+Topics for Region: ['America', 'Africa', '\u200bEurop Region']
+Topic: 0 
+Words: 0.011*"kaleb" + 0.009*"yellow" + 0.009*"savan" + 0.009*"powder" + 0.009*"amal" + 0.007*"survivor" + 0.007*"beast" + 0.007*"gagen" + 0.007*"tribe" + 0.007*"dorel"
+Topic: 1 
+Words: 0.034*"sargon" + 0.030*"mathayus" + 0.017*"ari" + 0.016*"sword" + 0.014*"layla" + 0.010*"turn" + 0.010*"tell" + 0.010*"scorpion" + 0.009*"city" + 0.007*"get"
+Topic: 2 
+Words: 0.021*"dog" + 0.020*"maruge" + 0.018*"school" + 0.015*"jane" + 0.010*"john" + 0.008*"island" + 0.008*"matt" + 0.008*"tell" + 0.006*"attack" + 0.006*"him"
+Topic: 3 
+Words: 0.001*"edgar" + 0.001*"maruge" + 0.001*"jane" + 0.001*"sargon" + 0.001*"him" + 0.001*"school" + 0.001*"attack" + 0.001*"dj" + 0.001*"peter" + 0.001*"mathayus"
+Topic: 4 
+Words: 0.020*"edgar" + 0.012*"vampire" + 0.010*"peter" + 0.010*"marshal" + 0.010*"rico" + 0.010*"sky" + 0.009*"dj" + 0.009*"x" + 0.008*"alan" + 0.008*"federation"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.003*"ge" + 0.003*"li" + 0.003*"zhao" + 0.003*"liang" + 0.003*"king" + 0.003*"general" + 0.003*"force" + 0.003*"film" + 0.003*"state" + 0.003*"city"
+Topic: 1 
+Words: 0.058*"ge" + 0.039*"liang" + 0.039*"zhao" + 0.035*"li" + 0.020*"king" + 0.020*"general" + 0.013*"prince" + 0.011*"city" + 0.011*"state" + 0.009*"tower"
+Topic: 2 
+Words: 0.003*"ge" + 0.003*"liang" + 0.003*"force" + 0.003*"li" + 0.003*"film" + 0.003*"five" + 0.003*"go" + 0.003*"zhao" + 0.003*"woman" + 0.003*"wife"
+Topic: 3 
+Words: 0.018*"film" + 0.018*"director" + 0.018*"dumpling" + 0.018*"box" + 0.018*"woman" + 0.018*"one" + 0.018*"wife" + 0.010*"five" + 0.010*"go" + 0.010*"realizes"
+Topic: 4 
+Words: 0.003*"ge" + 0.003*"zhao" + 0.003*"liang" + 0.003*"li" + 0.003*"king" + 0.003*"general" + 0.003*"prince" + 0.003*"force" + 0.003*"go" + 0.003*"five"
+
+Topics for Region: ['America', 'Africa', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.002*"vos" + 0.002*"patrick" + 0.002*"sinclair" + 0.002*"family" + 0.002*"attack" + 0.002*"take" + 0.002*"wife" + 0.002*"left" + 0.002*"government" + 0.002*"friend"
+Topic: 1 
+Words: 0.034*"vos" + 0.034*"patrick" + 0.012*"family" + 0.012*"refinery" + 0.009*"wife" + 0.009*"attack" + 0.009*"bomb" + 0.009*"would" + 0.009*"first" + 0.009*"explosion"
+Topic: 2 
+Words: 0.032*"sinclair" + 0.015*"dr" + 0.012*"scotland" + 0.012*"escape" + 0.012*"sol" + 0.012*"quarantine" + 0.009*"virus" + 0.009*"survivor" + 0.009*"cure" + 0.009*"norton"
+Topic: 3 
+Words: 0.002*"patrick" + 0.002*"vos" + 0.002*"family" + 0.002*"sinclair" + 0.002*"wife" + 0.002*"take" + 0.002*"left" + 0.002*"paul" + 0.002*"behind" + 0.002*"attack"
+Topic: 4 
+Words: 0.019*"paul" + 0.019*"refugee" + 0.015*"un" + 0.015*"tutsi" + 0.015*"hotel" + 0.015*"hutu" + 0.010*"behind" + 0.010*"interahamwe" + 0.010*"force" + 0.010*"bribe"
+
+Topics for Region: ['America', 'America', 'America']
+Topic: 0 
+Words: 0.054*"chava" + 0.027*"guerrilla" + 0.018*"army" + 0.015*"soldier" + 0.015*"family" + 0.015*"school" + 0.015*"friend" + 0.012*"one" + 0.012*"town" + 0.009*"old"
+Topic: 1 
+Words: 0.005*"chava" + 0.005*"guerrilla" + 0.005*"friend" + 0.005*"school" + 0.005*"army" + 0.005*"town" + 0.005*"family" + 0.005*"one" + 0.005*"soldier" + 0.005*"kella"
+Topic: 2 
+Words: 0.005*"chava" + 0.005*"guerrilla" + 0.005*"friend" + 0.005*"family" + 0.005*"army" + 0.005*"school" + 0.005*"soldier" + 0.005*"town" + 0.005*"scene" + 0.005*"him"
+Topic: 3 
+Words: 0.005*"chava" + 0.005*"guerrilla" + 0.005*"soldier" + 0.005*"family" + 0.005*"school" + 0.005*"friend" + 0.005*"army" + 0.005*"one" + 0.005*"child" + 0.005*"boy"
+Topic: 4 
+Words: 0.005*"chava" + 0.005*"guerrilla" + 0.005*"soldier" + 0.005*"friend" + 0.005*"school" + 0.005*"family" + 0.005*"town" + 0.005*"army" + 0.005*"maria" + 0.005*"mother"
+
+Topics for Region: ['Africa', '\u200bEurop Region']
+Topic: 0 
+Words: 0.002*"aurora" + 0.002*"return" + 0.002*"tsotsi" + 0.002*"captain" + 0.002*"humvee" + 0.002*"ship" + 0.002*"orlock" + 0.002*"one" + 0.002*"baby" + 0.002*"attack"
+Topic: 1 
+Words: 0.032*"fiz" + 0.029*"cilla" + 0.025*"south" + 0.025*"chesney" + 0.018*"africa" + 0.011*"alex" + 0.011*"cillas" + 0.008*"african" + 0.008*"stay" + 0.008*"tell"
+Topic: 2 
+Words: 0.002*"fiz" + 0.002*"aurora" + 0.002*"return" + 0.002*"tsotsi" + 0.002*"orlock" + 0.002*"captain" + 0.002*"john" + 0.002*"chesney" + 0.002*"humvee" + 0.002*"african"
+Topic: 3 
+Words: 0.031*"aurora" + 0.022*"captain" + 0.022*"humvee" + 0.022*"orlock" + 0.018*"ship" + 0.016*"return" + 0.016*"demeter" + 0.016*"187" + 0.011*"find" + 0.011*"crew"
+Topic: 4 
+Words: 0.037*"tsotsi" + 0.022*"john" + 0.021*"baby" + 0.017*"butcher" + 0.015*"child" + 0.015*"aap" + 0.015*"boston" + 0.010*"take" + 0.010*"back" + 0.010*"house"
+
+Topics for Region: ['America', 'America', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.038*"chunli" + 0.036*"bison" + 0.021*"gen" + 0.015*"nash" + 0.010*"shadaloo" + 0.010*"balrog" + 0.010*"maya" + 0.010*"rose" + 0.010*"day" + 0.008*"him"
+Topic: 1 
+Words: 0.002*"chunli" + 0.002*"bison" + 0.002*"soldier" + 0.002*"gen" + 0.002*"one" + 0.002*"murch" + 0.002*"go" + 0.002*"war" + 0.002*"back" + 0.002*"dead"
+Topic: 2 
+Words: 0.022*"soldier" + 0.022*"murch" + 0.020*"war" + 0.017*"one" + 0.014*"dead" + 0.009*"know" + 0.009*"result" + 0.009*"go" + 0.009*"rand" + 0.009*"president"
+Topic: 3 
+Words: 0.002*"murch" + 0.002*"bison" + 0.002*"chunli" + 0.002*"soldier" + 0.002*"war" + 0.002*"one" + 0.002*"nash" + 0.002*"him" + 0.002*"tell" + 0.002*"result"
+Topic: 4 
+Words: 0.002*"chunli" + 0.002*"bison" + 0.002*"gen" + 0.002*"him" + 0.002*"soldier" + 0.002*"nash" + 0.002*"tell" + 0.002*"day" + 0.002*"maya" + 0.002*"one"
+
+Topics for Region: ['America', 'Cis']
+Topic: 0 
+Words: 0.002*"misha" + 0.002*"marketing" + 0.002*"abby" + 0.002*"bob" + 0.002*"russia" + 0.002*"one" + 0.002*"discovers" + 0.002*"suddenly" + 0.002*"burger" + 0.002*"brand"
+Topic: 1 
+Words: 0.002*"misha" + 0.002*"marketing" + 0.002*"abby" + 0.002*"one" + 0.002*"russia" + 0.002*"bob" + 0.002*"show" + 0.002*"suddenly" + 0.002*"developed" + 0.002*"operation"
+Topic: 2 
+Words: 0.037*"misha" + 0.018*"marketing" + 0.015*"abby" + 0.012*"bob" + 0.010*"brand" + 0.007*"girl" + 0.007*"food" + 0.007*"advertising" + 0.007*"show" + 0.007*"burger"
+Topic: 3 
+Words: 0.010*"developed" + 0.010*"operation" + 0.010*"american" + 0.010*"russian" + 0.010*"single" + 0.010*"sukhoi" + 0.010*"sabretoothed" + 0.010*"service" + 0.010*"pilot" + 0.010*"weapon"
+Topic: 4 
+Words: 0.002*"misha" + 0.002*"russia" + 0.002*"one" + 0.002*"suddenly" + 0.002*"discovers" + 0.002*"operation" + 0.002*"developed" + 0.002*"american" + 0.002*"russian" + 0.002*"bob"
+
+Topics for Region: ['America', 'Africa', 'Africa', '\u200bEurop Region']
+Topic: 0 
+Words: 0.007*"time" + 0.007*"stuart" + 0.007*"device" + 0.007*"sarah" + 0.007*"bank" + 0.007*"briggs" + 0.007*"criminal" + 0.007*"slipstream" + 0.007*"clerk" + 0.007*"rush"
+Topic: 1 
+Words: 0.007*"stuart" + 0.007*"bank" + 0.007*"time" + 0.007*"device" + 0.007*"sarah" + 0.007*"briggs" + 0.007*"criminal" + 0.007*"slipstream" + 0.007*"shot" + 0.007*"system"
+Topic: 2 
+Words: 0.043*"stuart" + 0.039*"bank" + 0.039*"time" + 0.030*"device" + 0.026*"sarah" + 0.022*"briggs" + 0.018*"slipstream" + 0.013*"try" + 0.013*"end" + 0.013*"criminal"
+Topic: 3 
+Words: 0.007*"stuart" + 0.007*"time" + 0.007*"bank" + 0.007*"device" + 0.007*"sarah" + 0.007*"escape" + 0.007*"briggs" + 0.007*"armed" + 0.007*"too" + 0.007*"true"
+Topic: 4 
+Words: 0.007*"bank" + 0.007*"time" + 0.007*"stuart" + 0.007*"device" + 0.007*"briggs" + 0.007*"sarah" + 0.007*"slipstream" + 0.007*"try" + 0.007*"end" + 0.007*"partner"
+
+Topics for Region: ['\u200bArab States', '\u200bArab States', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.005*"said" + 0.005*"khaled" + 0.005*"handler" + 0.005*"belt" + 0.005*"israeli" + 0.005*"day" + 0.005*"one" + 0.005*"bomb" + 0.005*"attack" + 0.005*"find"
+Topic: 1 
+Words: 0.005*"said" + 0.005*"khaled" + 0.005*"israeli" + 0.005*"bomb" + 0.005*"belt" + 0.005*"day" + 0.005*"handler" + 0.005*"suicide" + 0.005*"attack" + 0.005*"one"
+Topic: 2 
+Words: 0.043*"said" + 0.025*"khaled" + 0.018*"israeli" + 0.018*"handler" + 0.015*"attack" + 0.015*"bomb" + 0.015*"day" + 0.015*"belt" + 0.011*"find" + 0.011*"father"
+Topic: 3 
+Words: 0.005*"said" + 0.005*"khaled" + 0.005*"israeli" + 0.005*"belt" + 0.005*"handler" + 0.005*"attack" + 0.005*"bomb" + 0.005*"day" + 0.005*"father" + 0.005*"taking"
+Topic: 4 
+Words: 0.005*"said" + 0.005*"israeli" + 0.005*"khaled" + 0.005*"handler" + 0.005*"attack" + 0.005*"suicide" + 0.005*"bomb" + 0.005*"one" + 0.005*"day" + 0.005*"belt"
+
+Topics for Region: ['America', 'America', 'Africa']
+Topic: 0 
+Words: 0.009*"john" + 0.009*"shondra" + 0.009*"cia" + 0.009*"eddie" + 0.009*"chapel" + 0.009*"kamal" + 0.009*"dresham" + 0.009*"on" + 0.009*"back" + 0.009*"get"
+Topic: 1 
+Words: 0.009*"john" + 0.009*"take" + 0.009*"eddie" + 0.009*"however" + 0.009*"make" + 0.009*"randveld" + 0.009*"trying" + 0.009*"patsy" + 0.009*"back" + 0.009*"secured"
+Topic: 2 
+Words: 0.009*"john" + 0.009*"eddie" + 0.009*"get" + 0.009*"shondra" + 0.009*"best" + 0.009*"dresham" + 0.009*"cia" + 0.009*"kamal" + 0.009*"chapel" + 0.009*"son"
+Topic: 3 
+Words: 0.009*"john" + 0.009*"eddie" + 0.009*"shondra" + 0.009*"dresham" + 0.009*"chapel" + 0.009*"dasan" + 0.009*"africa" + 0.009*"get" + 0.009*"crew" + 0.009*"seeger"
+Topic: 4 
+Words: 0.060*"john" + 0.023*"shondra" + 0.023*"eddie" + 0.017*"kamal" + 0.017*"cia" + 0.017*"get" + 0.017*"chapel" + 0.017*"dresham" + 0.012*"kidnapped" + 0.012*"care"
+
+Topics for Region: ['\u200bArab States', '\u200bArab States', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.002*"auda" + 0.002*"nesib" + 0.002*"oil" + 0.002*"amar" + 0.002*"yellow" + 0.002*"belt" + 0.002*"say" + 0.002*"saleh" + 0.002*"start" + 0.002*"tribe"
+Topic: 1 
+Words: 0.002*"auda" + 0.002*"abdelkader" + 0.002*"white" + 0.002*"nesib" + 0.002*"french" + 0.002*"troop" + 0.002*"saïd" + 0.002*"belt" + 0.002*"amar" + 0.002*"martinez"
+Topic: 2 
+Words: 0.002*"auda" + 0.002*"nesib" + 0.002*"oil" + 0.002*"amar" + 0.002*"troop" + 0.002*"yellow" + 0.002*"tribe" + 0.002*"belt" + 0.002*"french" + 0.002*"meet"
+Topic: 3 
+Words: 0.021*"french" + 0.021*"troop" + 0.021*"abdelkader" + 0.019*"white" + 0.014*"saïd" + 0.012*"france" + 0.012*"martinez" + 0.010*"messaoud" + 0.009*"return" + 0.009*"soldier"
+Topic: 4 
+Words: 0.040*"auda" + 0.037*"nesib" + 0.024*"oil" + 0.022*"amar" + 0.017*"yellow" + 0.017*"belt" + 0.015*"tribe" + 0.011*"sultan" + 0.011*"saleh" + 0.009*"meet"
+
+Topics for Region: ['America', 'America', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.004*"bond" + 0.004*"le" + 0.004*"vesper" + 0.004*"chiffre" + 0.004*"agent" + 0.004*"kill" + 0.004*"money" + 0.004*"associate" + 0.004*"miami" + 0.004*"white"
+Topic: 1 
+Words: 0.060*"bond" + 0.035*"le" + 0.028*"chiffre" + 0.020*"vesper" + 0.013*"kill" + 0.010*"tournament" + 0.010*"white" + 0.010*"agent" + 0.008*"phone" + 0.008*"order"
+Topic: 2 
+Words: 0.004*"bond" + 0.004*"le" + 0.004*"chiffre" + 0.004*"vesper" + 0.004*"kill" + 0.004*"agent" + 0.004*"money" + 0.004*"mr" + 0.004*"associate" + 0.004*"winning"
+Topic: 3 
+Words: 0.004*"bond" + 0.004*"le" + 0.004*"chiffre" + 0.004*"vesper" + 0.004*"kill" + 0.004*"agent" + 0.004*"white" + 0.004*"winning" + 0.004*"tournament" + 0.004*"associate"
+Topic: 4 
+Words: 0.004*"bond" + 0.004*"le" + 0.004*"chiffre" + 0.004*"vesper" + 0.004*"white" + 0.004*"agent" + 0.004*"money" + 0.004*"kill" + 0.004*"phone" + 0.004*"building"
+
+Topics for Region: ['Cis', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.055*"temüjin" + 0.019*"börte" + 0.016*"khan" + 0.014*"targutai" + 0.014*"tangut" + 0.014*"father" + 0.014*"mongol" + 0.010*"temüjins" + 0.010*"however" + 0.010*"great"
+Topic: 1 
+Words: 0.004*"temüjin" + 0.004*"börte" + 0.004*"mongol" + 0.004*"khan" + 0.004*"father" + 0.004*"tangut" + 0.004*"monk" + 0.004*"targutai" + 0.004*"later" + 0.004*"however"
+Topic: 2 
+Words: 0.004*"temüjin" + 0.004*"börte" + 0.004*"targutai" + 0.004*"khan" + 0.004*"father" + 0.004*"temüjins" + 0.004*"tribe" + 0.004*"escape" + 0.004*"mongol" + 0.004*"later"
+Topic: 3 
+Words: 0.004*"temüjin" + 0.004*"mongol" + 0.004*"börte" + 0.004*"tangut" + 0.004*"targutai" + 0.004*"khan" + 0.004*"father" + 0.004*"great" + 0.004*"jamukha" + 0.004*"later"
+Topic: 4 
+Words: 0.004*"temüjin" + 0.004*"tangut" + 0.004*"khan" + 0.004*"börte" + 0.004*"mongol" + 0.004*"father" + 0.004*"later" + 0.004*"targutai" + 0.004*"great" + 0.004*"jamukha"
+
+Topics for Region: ['Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.006*"film" + 0.006*"character" + 0.006*"different" + 0.006*"people" + 0.006*"camera" + 0.006*"dream" + 0.006*"music" + 0.006*"try" + 0.006*"later" + 0.006*"invite"
+Topic: 1 
+Words: 0.017*"film" + 0.017*"dream" + 0.013*"different" + 0.013*"character" + 0.013*"people" + 0.013*"music" + 0.013*"camera" + 0.009*"later" + 0.009*"dixieland" + 0.009*"large"
+Topic: 2 
+Words: 0.006*"dream" + 0.006*"film" + 0.006*"people" + 0.006*"camera" + 0.006*"music" + 0.006*"different" + 0.006*"character" + 0.006*"one" + 0.006*"later" + 0.006*"large"
+Topic: 3 
+Words: 0.006*"dream" + 0.006*"character" + 0.006*"camera" + 0.006*"film" + 0.006*"one" + 0.006*"city" + 0.006*"music" + 0.006*"people" + 0.006*"try" + 0.006*"dixieland"
+Topic: 4 
+Words: 0.006*"film" + 0.006*"dream" + 0.006*"music" + 0.006*"camera" + 0.006*"city" + 0.006*"ceo" + 0.006*"people" + 0.006*"character" + 0.006*"different" + 0.006*"make"
+
+Topics for Region: ['\u200bArab States', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.003*"romulus" + 0.003*"sword" + 0.003*"men" + 0.003*"aurelius" + 0.003*"ambrosinus" + 0.003*"caesar" + 0.003*"vortgyn" + 0.003*"roman" + 0.003*"odoacer" + 0.003*"legion"
+Topic: 1 
+Words: 0.003*"romulus" + 0.003*"aurelius" + 0.003*"sword" + 0.003*"ambrosinus" + 0.003*"men" + 0.003*"caesar" + 0.003*"igraine" + 0.003*"odoacer" + 0.003*"legion" + 0.003*"britain"
+Topic: 2 
+Words: 0.003*"romulus" + 0.003*"aurelius" + 0.003*"men" + 0.003*"sword" + 0.003*"caesar" + 0.003*"ambrosinus" + 0.003*"vortgyn" + 0.003*"odoacer" + 0.003*"legion" + 0.003*"roman"
+Topic: 3 
+Words: 0.037*"romulus" + 0.020*"sword" + 0.019*"aurelius" + 0.016*"ambrosinus" + 0.014*"men" + 0.014*"caesar" + 0.010*"roman" + 0.010*"legion" + 0.010*"igraine" + 0.010*"odoacer"
+Topic: 4 
+Words: 0.003*"romulus" + 0.003*"sword" + 0.003*"aurelius" + 0.003*"ambrosinus" + 0.003*"caesar" + 0.003*"men" + 0.003*"igraine" + 0.003*"vortgyn" + 0.003*"odoacer" + 0.003*"emperor"
+
+Topics for Region: ['America', 'Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.002*"misty" + 0.002*"fearless" + 0.002*"map" + 0.002*"lady" + 0.002*"sarah" + 0.002*"teresa" + 0.002*"nullah" + 0.002*"cattle" + 0.002*"orphan" + 0.002*"four"
+Topic: 1 
+Words: 0.002*"misty" + 0.002*"teresa" + 0.002*"there" + 0.002*"fearless" + 0.002*"map" + 0.002*"beach" + 0.002*"spark" + 0.002*"four" + 0.002*"lucy" + 0.002*"orphan"
+Topic: 2 
+Words: 0.002*"sarah" + 0.002*"lady" + 0.002*"cattle" + 0.002*"drover" + 0.002*"nullah" + 0.002*"misty" + 0.002*"darwin" + 0.002*"king" + 0.002*"map" + 0.002*"return"
+Topic: 3 
+Words: 0.029*"misty" + 0.025*"fearless" + 0.021*"teresa" + 0.019*"map" + 0.017*"orphan" + 0.015*"there" + 0.013*"find" + 0.013*"spit" + 0.013*"rock" + 0.013*"beach"
+Topic: 4 
+Words: 0.038*"lady" + 0.038*"sarah" + 0.036*"nullah" + 0.029*"cattle" + 0.025*"drover" + 0.015*"darwin" + 0.013*"king" + 0.013*"fletcher" + 0.011*"island" + 0.011*"george"
+
+Topics for Region: ['Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.003*"english" + 0.003*"never" + 0.003*"alive" + 0.003*"wealthy" + 0.003*"disappeared" + 0.003*"pay" + 0.003*"like" + 0.003*"gao" + 0.003*"eager" + 0.003*"leveled"
+Topic: 1 
+Words: 0.003*"english" + 0.003*"ambrose" + 0.003*"jeanne" + 0.003*"men" + 0.003*"storm" + 0.003*"island" + 0.003*"underclass" + 0.003*"wealthy" + 0.003*"known" + 0.003*"spirit"
+Topic: 2 
+Words: 0.055*"english" + 0.029*"ambrose" + 0.013*"vortex" + 0.009*"drug" + 0.009*"pegasus" + 0.009*"tucker" + 0.009*"jeanne" + 0.008*"traitor" + 0.008*"fisher" + 0.008*"key"
+Topic: 3 
+Words: 0.003*"english" + 0.003*"ambrose" + 0.003*"vortex" + 0.003*"couple" + 0.003*"local" + 0.003*"kidnapper" + 0.003*"men" + 0.003*"mr" + 0.003*"leveled" + 0.003*"island"
+Topic: 4 
+Words: 0.003*"english" + 0.003*"ambrose" + 0.003*"jeanne" + 0.003*"leveled" + 0.003*"dead" + 0.003*"concern" + 0.003*"pay" + 0.003*"couple" + 0.003*"never" + 0.003*"wealthy"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.004*"hogg" + 0.004*"lee" + 0.004*"boy" + 0.004*"orphanage" + 0.004*"japanese" + 0.004*"time" + 0.004*"orphan" + 0.004*"take" + 0.004*"witness" + 0.004*"food"
+Topic: 1 
+Words: 0.049*"hogg" + 0.026*"boy" + 0.021*"lee" + 0.017*"orphanage" + 0.012*"japanese" + 0.010*"take" + 0.010*"however" + 0.010*"orphan" + 0.010*"food" + 0.007*"one"
+Topic: 2 
+Words: 0.004*"hogg" + 0.004*"boy" + 0.004*"lee" + 0.004*"orphanage" + 0.004*"japanese" + 0.004*"take" + 0.004*"food" + 0.004*"grandmother" + 0.004*"hansheng" + 0.004*"however"
+Topic: 3 
+Words: 0.004*"hogg" + 0.004*"boy" + 0.004*"lee" + 0.004*"food" + 0.004*"orphanage" + 0.004*"japanese" + 0.004*"however" + 0.004*"orphan" + 0.004*"care" + 0.004*"leaving"
+Topic: 4 
+Words: 0.004*"hogg" + 0.004*"boy" + 0.004*"orphanage" + 0.004*"lee" + 0.004*"take" + 0.004*"orphan" + 0.004*"japanese" + 0.004*"treatment" + 0.004*"grandmother" + 0.004*"however"
+
+Topics for Region: ['America', 'Africa', 'Asia and Pacific']
+Topic: 0 
+Words: 0.004*"dleh" + 0.004*"evolet" + 0.004*"raider" + 0.004*"almighty" + 0.004*"mammoth" + 0.004*"one" + 0.004*"baku" + 0.004*"kill" + 0.004*"slave" + 0.004*"tribe"
+Topic: 1 
+Words: 0.040*"dleh" + 0.025*"evolet" + 0.018*"tribe" + 0.018*"almighty" + 0.016*"raider" + 0.014*"one" + 0.011*"kill" + 0.011*"baku" + 0.009*"tictic" + 0.009*"god"
+Topic: 2 
+Words: 0.004*"dleh" + 0.004*"evolet" + 0.004*"one" + 0.004*"raider" + 0.004*"kill" + 0.004*"tribe" + 0.004*"almighty" + 0.004*"baku" + 0.004*"tictic" + 0.004*"slave"
+Topic: 3 
+Words: 0.004*"dleh" + 0.004*"evolet" + 0.004*"almighty" + 0.004*"tribe" + 0.004*"raider" + 0.004*"one" + 0.004*"kill" + 0.004*"slave" + 0.004*"baku" + 0.004*"god"
+Topic: 4 
+Words: 0.004*"dleh" + 0.004*"evolet" + 0.004*"baku" + 0.004*"one" + 0.004*"almighty" + 0.004*"raider" + 0.004*"tribe" + 0.004*"god" + 0.004*"tictic" + 0.004*"kill"
+
+Topics for Region: ['America', 'America', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.007*"dragon" + 0.007*"world" + 0.007*"knight" + 0.007*"lianchu" + 0.007*"zoe" + 0.007*"gwizdo" + 0.007*"uncle" + 0.007*"gobbler" + 0.007*"friend" + 0.007*"lord"
+Topic: 1 
+Words: 0.051*"dragon" + 0.042*"world" + 0.030*"lianchu" + 0.030*"knight" + 0.022*"gobbler" + 0.022*"zoe" + 0.017*"gwizdo" + 0.017*"uncle" + 0.013*"friend" + 0.013*"lord"
+Topic: 2 
+Words: 0.007*"dragon" + 0.007*"world" + 0.007*"knight" + 0.007*"gobbler" + 0.007*"lianchu" + 0.007*"zoe" + 0.007*"ever" + 0.007*"uncle" + 0.007*"search" + 0.007*"destroying"
+Topic: 3 
+Words: 0.007*"dragon" + 0.007*"world" + 0.007*"lianchu" + 0.007*"knight" + 0.007*"gobbler" + 0.007*"zoe" + 0.007*"gwizdo" + 0.007*"uncle" + 0.007*"lord" + 0.007*"eye"
+Topic: 4 
+Words: 0.007*"dragon" + 0.007*"world" + 0.007*"lianchu" + 0.007*"knight" + 0.007*"gobbler" + 0.007*"zoe" + 0.007*"gwizdo" + 0.007*"uncle" + 0.007*"owning" + 0.007*"zoes"
+
+Topics for Region: ['America', 'Africa', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.055*"joe" + 0.024*"boot" + 0.022*"evelyn" + 0.020*"ruth" + 0.009*"house" + 0.009*"tell" + 0.009*"back" + 0.009*"day" + 0.009*"died" + 0.009*"time"
+Topic: 1 
+Words: 0.004*"joe" + 0.004*"boot" + 0.004*"evelyn" + 0.004*"ruth" + 0.004*"time" + 0.004*"day" + 0.004*"back" + 0.004*"tell" + 0.004*"her" + 0.004*"died"
+Topic: 2 
+Words: 0.004*"joe" + 0.004*"boot" + 0.004*"evelyn" + 0.004*"ruth" + 0.004*"time" + 0.004*"died" + 0.004*"back" + 0.004*"day" + 0.004*"house" + 0.004*"life"
+Topic: 3 
+Words: 0.004*"joe" + 0.004*"boot" + 0.004*"evelyn" + 0.004*"ruth" + 0.004*"house" + 0.004*"died" + 0.004*"day" + 0.004*"time" + 0.004*"next" + 0.004*"her"
+Topic: 4 
+Words: 0.004*"joe" + 0.004*"boot" + 0.004*"evelyn" + 0.004*"ruth" + 0.004*"come" + 0.004*"died" + 0.004*"back" + 0.004*"day" + 0.004*"career" + 0.004*"year"
+
+Topics for Region: ['Africa', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.020*"lurie" + 0.020*"lucy" + 0.020*"one" + 0.020*"affair" + 0.020*"first" + 0.020*"farm" + 0.020*"newfound" + 0.020*"attacked" + 0.020*"refuge" + 0.020*"town"
+Topic: 1 
+Words: 0.062*"lurie" + 0.032*"affair" + 0.032*"cape" + 0.032*"daughter" + 0.032*"one" + 0.032*"lucy" + 0.018*"tragedy" + 0.018*"two" + 0.018*"peace" + 0.018*"knowing"
+Topic: 2 
+Words: 0.020*"peace" + 0.020*"newfound" + 0.020*"raped" + 0.020*"professor" + 0.020*"personal" + 0.020*"reputation" + 0.020*"last" + 0.020*"loses" + 0.020*"south" + 0.020*"men"
+Topic: 3 
+Words: 0.020*"david" + 0.020*"three" + 0.020*"personal" + 0.020*"first" + 0.020*"crisis" + 0.020*"experience" + 0.020*"however" + 0.020*"go" + 0.020*"knowing" + 0.020*"two"
+Topic: 4 
+Words: 0.020*"experience" + 0.020*"david" + 0.020*"crisis" + 0.020*"suddenly" + 0.020*"town" + 0.020*"student" + 0.020*"reputation" + 0.020*"newfound" + 0.020*"job" + 0.020*"take"
+
+Topics for Region: ['Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.002*"maria" + 0.002*"uncle" + 0.002*"de" + 0.002*"loveday" + 0.002*"pearl" + 0.002*"robin" + 0.002*"benjamin" + 0.002*"noir" + 0.002*"moon" + 0.002*"her"
+Topic: 1 
+Words: 0.002*"maria" + 0.002*"uncle" + 0.002*"pearl" + 0.002*"loveday" + 0.002*"benjamin" + 0.002*"de" + 0.002*"moon" + 0.002*"robin" + 0.002*"noir" + 0.002*"book"
+Topic: 2 
+Words: 0.002*"maria" + 0.002*"uncle" + 0.002*"loveday" + 0.002*"moon" + 0.002*"pearl" + 0.002*"benjamin" + 0.002*"robin" + 0.002*"de" + 0.002*"noir" + 0.002*"family"
+Topic: 3 
+Words: 0.002*"maria" + 0.002*"benjamin" + 0.002*"uncle" + 0.002*"de" + 0.002*"moon" + 0.002*"robin" + 0.002*"loveday" + 0.002*"noir" + 0.002*"her" + 0.002*"pearl"
+Topic: 4 
+Words: 0.033*"maria" + 0.018*"uncle" + 0.016*"de" + 0.015*"pearl" + 0.015*"loveday" + 0.014*"robin" + 0.014*"benjamin" + 0.012*"moon" + 0.011*"noir" + 0.010*"her"
+
+Topics for Region: ['America', 'America', 'America', 'America', 'Asia and Pacific']
+Topic: 0 
+Words: 0.023*"doctor" + 0.022*"wife" + 0.021*"man" + 0.017*"blind" + 0.015*"japanese" + 0.014*"woman" + 0.011*"husband" + 0.011*"food" + 0.010*"ward" + 0.010*"people"
+Topic: 1 
+Words: 0.002*"doctor" + 0.002*"man" + 0.002*"wife" + 0.002*"japanese" + 0.002*"blind" + 0.002*"woman" + 0.002*"glass" + 0.002*"food" + 0.002*"blindness" + 0.002*"car"
+Topic: 2 
+Words: 0.002*"wife" + 0.002*"man" + 0.002*"doctor" + 0.002*"japanese" + 0.002*"blind" + 0.002*"people" + 0.002*"ward" + 0.002*"woman" + 0.002*"food" + 0.002*"glass"
+Topic: 3 
+Words: 0.002*"man" + 0.002*"doctor" + 0.002*"blind" + 0.002*"japanese" + 0.002*"wife" + 0.002*"woman" + 0.002*"people" + 0.002*"husband" + 0.002*"food" + 0.002*"dark"
+Topic: 4 
+Words: 0.002*"wife" + 0.002*"doctor" + 0.002*"man" + 0.002*"blind" + 0.002*"woman" + 0.002*"food" + 0.002*"japanese" + 0.002*"husband" + 0.002*"ward" + 0.002*"dark"
+
+Topics for Region: ['America', 'Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.003*"bush" + 0.003*"state" + 0.003*"father" + 0.003*"saddam" + 0.003*"elder" + 0.003*"iraq" + 0.003*"war" + 0.003*"family" + 0.003*"becomes" + 0.003*"president"
+Topic: 1 
+Words: 0.071*"bush" + 0.018*"state" + 0.016*"father" + 0.010*"texas" + 0.010*"iraq" + 0.008*"becomes" + 0.008*"saddam" + 0.008*"war" + 0.006*"jeb" + 0.006*"baseball"
+Topic: 2 
+Words: 0.003*"bush" + 0.003*"state" + 0.003*"texas" + 0.003*"iraq" + 0.003*"saddam" + 0.003*"father" + 0.003*"becomes" + 0.003*"war" + 0.003*"elder" + 0.003*"president"
+Topic: 3 
+Words: 0.003*"bush" + 0.003*"state" + 0.003*"father" + 0.003*"iraq" + 0.003*"texas" + 0.003*"war" + 0.003*"saddam" + 0.003*"becomes" + 0.003*"baseball" + 0.003*"following"
+Topic: 4 
+Words: 0.003*"bush" + 0.003*"state" + 0.003*"father" + 0.003*"iraq" + 0.003*"war" + 0.003*"texas" + 0.003*"saddam" + 0.003*"becomes" + 0.003*"family" + 0.003*"president"
+
+Topics for Region: ['\u200bArab States', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.019*"uk" + 0.019*"include" + 0.019*"african" + 0.019*"meet" + 0.019*"tavistock" + 0.019*"square" + 0.019*"location" + 0.019*"searching" + 0.019*"francophone" + 0.019*"neither"
+Topic: 1 
+Words: 0.019*"london" + 0.019*"france" + 0.019*"bus" + 0.019*"neither" + 0.019*"2005" + 0.019*"searching" + 0.019*"widow" + 0.019*"sommers" + 0.019*"following" + 0.019*"exploded"
+Topic: 2 
+Words: 0.019*"shot" + 0.019*"searching" + 0.019*"muslim" + 0.019*"include" + 0.019*"hasib" + 0.019*"guernsey" + 0.019*"park" + 0.019*"finsbury" + 0.019*"2005" + 0.019*"location"
+Topic: 3 
+Words: 0.019*"london" + 0.019*"bombing" + 0.019*"uk" + 0.019*"tavistock" + 0.019*"discover" + 0.019*"war" + 0.019*"hasib" + 0.019*"sommers" + 0.019*"couple" + 0.019*"include"
+Topic: 4 
+Words: 0.059*"london" + 0.031*"killed" + 0.031*"daughter" + 0.031*"france" + 0.031*"bombing" + 0.031*"son" + 0.017*"francophone" + 0.017*"ousmane" + 0.017*"missing" + 0.017*"hussain"
+
+Topics for Region: ['America', 'Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific', 'Asia and Pacific']
+Topic: 0 
+Words: 0.011*"return" + 0.011*"lu" + 0.011*"home" + 0.011*"army" + 0.011*"general" + 0.011*"zhang" + 0.011*"wolf" + 0.011*"troop" + 0.011*"outsider" + 0.011*"support"
+Topic: 1 
+Words: 0.011*"lu" + 0.011*"general" + 0.011*"zhang" + 0.011*"wolf" + 0.011*"return" + 0.011*"home" + 0.011*"take" + 0.011*"army" + 0.011*"barbarian" + 0.011*"year"
+Topic: 2 
+Words: 0.048*"lu" + 0.034*"return" + 0.034*"general" + 0.034*"zhang" + 0.028*"wolf" + 0.028*"home" + 0.021*"village" + 0.021*"barbarian" + 0.021*"army" + 0.021*"take"
+Topic: 3 
+Words: 0.011*"lu" + 0.011*"zhang" + 0.011*"general" + 0.011*"return" + 0.011*"home" + 0.011*"barbarian" + 0.011*"take" + 0.011*"village" + 0.011*"wolf" + 0.011*"army"
+Topic: 4 
+Words: 0.011*"northern" + 0.011*"newly" + 0.011*"repels" + 0.011*"region" + 0.011*"refuge" + 0.011*"recruited" + 0.011*"prince" + 0.011*"outsider" + 0.011*"occasion" + 0.011*"sand"
+
+Topics for Region: ['America', 'Africa', 'America', 'Asia and Pacific']
+Topic: 0 
+Words: 0.004*"wikus" + 0.004*"alien" + 0.004*"christopher" + 0.004*"mnu" + 0.004*"venter" + 0.004*"canister" + 0.004*"module" + 0.004*"command" + 0.004*"mothership" + 0.004*"fluid"
+Topic: 1 
+Words: 0.004*"wikus" + 0.004*"alien" + 0.004*"christopher" + 0.004*"mnu" + 0.004*"canister" + 0.004*"module" + 0.004*"venter" + 0.004*"district" + 0.004*"mothership" + 0.004*"command"
+Topic: 2 
+Words: 0.004*"wikus" + 0.004*"alien" + 0.004*"christopher" + 0.004*"mnu" + 0.004*"canister" + 0.004*"district" + 0.004*"command" + 0.004*"9" + 0.004*"venter" + 0.004*"fluid"
+Topic: 3 
+Words: 0.004*"wikus" + 0.004*"alien" + 0.004*"christopher" + 0.004*"mnu" + 0.004*"canister" + 0.004*"venter" + 0.004*"command" + 0.004*"module" + 0.004*"district" + 0.004*"9"
+Topic: 4 
+Words: 0.057*"wikus" + 0.040*"alien" + 0.033*"christopher" + 0.022*"mnu" + 0.014*"venter" + 0.011*"module" + 0.011*"command" + 0.011*"district" + 0.011*"canister" + 0.009*"fluid"
+
+Topics for Region: ['\u200bEurop Region', 'Asia and Pacific', '\u200bEurop Region']
+Topic: 0 
+Words: 0.042*"rouge" + 0.042*"khmer" + 0.026*"sambath" + 0.026*"film" + 0.026*"nuon" + 0.026*"former" + 0.018*"chea" + 0.018*"pot" + 0.018*"tell" + 0.018*"pol"
+Topic: 1 
+Words: 0.012*"khmer" + 0.012*"former" + 0.012*"rouge" + 0.012*"tell" + 0.012*"sambath" + 0.012*"seek" + 0.012*"end" + 0.012*"premier" + 0.012*"decided" + 0.012*"nuon"
+Topic: 2 
+Words: 0.012*"khmer" + 0.012*"rouge" + 0.012*"nuon" + 0.012*"sambath" + 0.012*"news" + 0.012*"former" + 0.012*"film" + 0.012*"end" + 0.012*"research" + 0.012*"million"
+Topic: 3 
+Words: 0.012*"omitted" + 0.012*"none" + 0.012*"research" + 0.012*"radical" + 0.012*"previously" + 0.012*"president" + 0.012*"premier" + 0.012*"part" + 0.012*"rule" + 0.012*"official"
+Topic: 4 
+Words: 0.012*"official" + 0.012*"lethal" + 0.012*"feature" + 0.012*"radical" + 0.012*"president" + 0.012*"father" + 0.012*"suon" + 0.012*"level" + 0.012*"nixon" + 0.012*"khoun"
+
+Topics for Region: ['Asia and Pacific', 'America', 'America', '\u200bEurop Region']
+Topic: 0 
+Words: 0.017*"bar" + 0.017*"violence" + 0.017*"trying" + 0.017*"bos" + 0.017*"carancho" + 0.017*"meet" + 0.017*"romantic" + 0.017*"known" + 0.017*"station" + 0.017*"lawyer"
+Topic: 1 
+Words: 0.017*"bos" + 0.017*"sosa" + 0.017*"lawyer" + 0.017*"internship" + 0.017*"meet" + 0.017*"expelled" + 0.017*"amends" + 0.017*"arrived" + 0.017*"recently" + 0.017*"hospital"
+Topic: 2 
+Words: 0.042*"sosa" + 0.029*"get" + 0.029*"luján" + 0.029*"firm" + 0.029*"recently" + 0.016*"registration" + 0.016*"ambulance" + 0.016*"carancho" + 0.016*"province" + 0.016*"department"
+Topic: 3 
+Words: 0.017*"sosa" + 0.017*"recently" + 0.017*"work" + 0.017*"amends" + 0.017*"arrived" + 0.017*"lawyer" + 0.017*"luján" + 0.017*"expelled" + 0.017*"relationship" + 0.017*"known"
+Topic: 4 
+Words: 0.017*"back" + 0.017*"start" + 0.017*"meet" + 0.017*"former" + 0.017*"barelylegal" + 0.017*"bar" + 0.017*"law" + 0.017*"trying" + 0.017*"attacked" + 0.017*"violence"
+
+Topics for Region: ['America', 'America', 'Asia and Pacific', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.003*"martin" + 0.003*"cole" + 0.003*"gina" + 0.003*"identity" + 0.003*"liz" + 0.003*"prince" + 0.003*"jones" + 0.003*"bressler" + 0.003*"attempt" + 0.003*"briefcase"
+Topic: 1 
+Words: 0.003*"martin" + 0.003*"gina" + 0.003*"cole" + 0.003*"attempt" + 0.003*"car" + 0.003*"identity" + 0.003*"liz" + 0.003*"bressler" + 0.003*"jones" + 0.003*"secret"
+Topic: 2 
+Words: 0.003*"martin" + 0.003*"gina" + 0.003*"cole" + 0.003*"identity" + 0.003*"notebook" + 0.003*"liz" + 0.003*"summit" + 0.003*"attempt" + 0.003*"jürgen" + 0.003*"car"
+Topic: 3 
+Words: 0.061*"martin" + 0.024*"gina" + 0.019*"cole" + 0.013*"attempt" + 0.011*"car" + 0.011*"bressler" + 0.011*"identity" + 0.011*"liz" + 0.010*"hotel" + 0.010*"notebook"
+Topic: 4 
+Words: 0.003*"martin" + 0.003*"gina" + 0.003*"cole" + 0.003*"car" + 0.003*"bressler" + 0.003*"liz" + 0.003*"attempt" + 0.003*"prince" + 0.003*"identity" + 0.003*"jones"
+
+Topics for Region: ['\u200bArab States', '\u200bEurop Region', '\u200bEurop Region', '\u200bEurop Region']
+Topic: 0 
+Words: 0.013*"knocking" + 0.013*"one" + 0.013*"affect" + 0.013*"create" + 0.013*"palestinian" + 0.013*"arrest" + 0.013*"olive" + 0.013*"2005" + 0.013*"another" + 0.013*"recording"
+Topic: 1 
+Words: 0.013*"affect" + 0.013*"arrested" + 0.013*"part" + 0.013*"separation" + 0.013*"guy" + 0.013*"knocking" + 0.013*"growth" + 0.013*"one" + 0.013*"recording" + 0.013*"resist"
+Topic: 2 
+Words: 0.013*"story" + 0.013*"camera" + 0.013*"burnat" + 0.013*"guy" + 0.013*"history" + 0.013*"bulldozer" + 0.013*"event" + 0.013*"soon" + 0.013*"five" + 0.013*"nonviolent"
+Topic: 3 
+Words: 0.044*"camera" + 0.027*"story" + 0.027*"burnat" + 0.019*"–" + 0.019*"friend" + 0.019*"filmmaker" + 0.019*"begin" + 0.019*"time" + 0.019*"two" + 0.019*"son"
+Topic: 4 
+Words: 0.013*"separation" + 0.013*"born" + 0.013*"knocking" + 0.013*"nonviolent" + 0.013*"night" + 0.013*"next" + 0.013*"loss" + 0.013*"led" + 0.013*"one" + 0.013*"history"
+
