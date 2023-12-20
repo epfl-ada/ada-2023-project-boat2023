@@ -1,3 +1,4 @@
 data/
 local_title_data.tsv
 terrorism_summaries_with_distilbert.csv
+!data/topic_data/df_topics_LDA.csv
