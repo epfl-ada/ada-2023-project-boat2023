@@ -5,6 +5,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import plotly.express as px
 import numpy as np
 from scipy import stats
+import pandas as pd
 
 
 def download_data(file_id, local_file_name):
@@ -180,3 +181,40 @@ def bootstrap_CI(data, num_draws=10000, metric=np.nanmean):
         means[i] = metric(data_tmp)
 
     return (np.nanpercentile(means, 2.5), np.nanpercentile(means, 97.5))
+
+def display_statistics(means, cis, label_):
+    """
+    Display statistics for two movie categories, including means and confidence intervals.
+
+    Parameters:
+    - means (list): A list containing the means for each movie category.
+    - cis (list of tuples): A list of tuples containing confidence intervals for each movie category.
+    - label_ (str): A label describing the statistic being displayed (e.g., 'Mean Revenue').
+
+    Returns:
+    - None: Displays a pandas DataFrame with the provided statistics.
+    """
+    data= {
+        'Movies Category': ['Terrorism-Related', 'Others'],
+        label_: means,
+        'CI_Lower': [cis[0][0], cis[1][0]],
+        'CI_Upper': [cis[0][1], cis[1][1]]
+    }
+    df= pd.DataFrame(data)
+
+    headers = {
+        "selector": "th:not(.index_name)",
+        "props": "background-color: #800000; color: white; width: 33%; text-align : center"
+    }
+    cell_style = {
+        "selector": "td:nth-child(1)",
+        "props": "background-color: #322220; color: white; font-weight: bold;"
+    }
+    cells_style = {
+        "selector": "td",
+        "props": [("width", "30%")]
+    }
+    properties = {"text-align": "center"}
+
+    df= df.style.set_table_styles([ headers, cell_style, cells_style]).set_properties(**properties).hide(axis='index').format(precision=2)
+    display(df)
