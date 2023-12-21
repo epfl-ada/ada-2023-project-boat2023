@@ -94,13 +94,13 @@ def analyse_text(text, classify_discrete = True):
     
     return res
 
-# To plot the top n values of a column in a pie chart
-def plot_interactive_pie(df, column, title, n):
+def plot_interactive_pie(df, column, title, n, color_palette):
     counts = df[column].value_counts()
     # Keep the top n and sum the rest under "Others"
     top_counts = counts[:n]
     top_counts['Others'] = counts[n:].sum()
-    fig = px.pie(values=top_counts, names=top_counts.index, title=title)
+    fig = px.pie(values=top_counts, names=top_counts.index, title=title, 
+                 color_discrete_sequence=color_palette)
     fig.update_traces(textinfo='percent+label')
     fig.show()
     
